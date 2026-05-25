@@ -1,4 +1,4 @@
-const BASE_URL = '/mult-2026-planeamiento-municipal/site/';
+const BASE_URL = '/';
 
 document.addEventListener('DOMContentLoaded', () => {
   loadIncludes();
