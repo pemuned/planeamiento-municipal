@@ -1,4 +1,4 @@
-const BASE_URL = '/';
+const BASE_URL = 'https://pemuned.github.io/planeamiento-municipal/';
 
 document.addEventListener('DOMContentLoaded', () => {
   loadIncludes();
