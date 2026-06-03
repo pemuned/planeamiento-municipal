@@ -3,10 +3,13 @@
   --tab-header-top: 30px;
   --height-banner-inner-page: 200px;
   --color-blue:#99C5C6;
+  --color-blue-50:rgb(153,197,198,0.5);
   --color-yellow :#DAB42E ;
   --color-green:#B5D96E;
   --color-beige: #E9E3D8;
   --color-gray: #D9D9D9;
+  --bs-primary-text-emphasis: #000000!important;
+  --bs-primary-bg-subtle: rgb(153,197,198,0.5)!important;
   --margin-top-xxl: 160px;
   --margin-top-xl:120px;
   --margin-top-lg:80px;
@@ -24,6 +27,10 @@ body {
   background-color: #eef2cf;
   position: relative;
   font-family: 'Montserrat', sans-serif;
+}
+
+.MathJax {
+    font-family: inherit !important;
 }
 
 body::before {
@@ -188,6 +195,10 @@ body::before {
 
 .inner-beige-band{
   background-color: var(--color-beige);
+}
+
+.alert-blue{
+  background-color: var(--color-blue-50);
 }
 
 .inner-menu-tabs {
@@ -419,7 +430,7 @@ body::before {
 }
 */
 
-.tool-content h2 {
+.tool-content h2, .plan-content h2 {
   margin-top: 2rem;
   margin-bottom: .5rem;
   font-size: 1.5rem;
@@ -427,15 +438,16 @@ body::before {
   color: #4b3500;
 }
 
-.tool-content p,
-.tool-content li {
+.tool-content p,.tool-content li, 
+.plan-content p, .plan-content li {
   font-size: 1.05rem;
   line-height: 1.7;
 }
-
-.tool-content ol {
+/*
+.tool-content ol, .plan-content ol {
   padding-left: 1.2rem;
 }
+*/
 
 /* =========================
    CASES
@@ -527,6 +539,13 @@ body::before {
   font-size: 32px;
   margin: 0;
 }
+
+.plan-content h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-top: 1.5rem;
+    
+}
 .stage-title{
   color: #554000;
   font-family: Montserrat;
@@ -576,7 +595,12 @@ body::before {
   color: #554000;
 }
 
-
+.small, small {
+    font-size: .9em!important;
+}
+.table-col-2 td{
+  width: 50%;
+} 
 /* Responsive */
 @media (max-width: 768px) {
   .top-banner {
