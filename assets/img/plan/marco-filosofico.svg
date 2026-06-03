@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 348.22">
+  <rect y="2.45" width="768" height="345.39" rx="16.63" ry="16.63" style="fill: #e4f9f9;"/>
+  <rect x="74.68" y="168.98" width="183.2" height="131.36" rx="9.81" ry="9.81" style="fill: #b7e1d5;"/>
+  <rect x="291.66" y="168.98" width="183.2" height="131.36" rx="9.81" ry="9.81" style="fill: #8dc4b3;"/>
+  <rect x="505.04" y="168.98" width="183.2" height="131.36" rx="9.81" ry="9.81" style="fill: #6aaa96;"/>
+  <rect x="212.84" y="44.27" width="342.45" height="101.95" rx="11.82" ry="11.82" style="fill: #f0a758;"/>
+  <text transform="translate(262.39 76.26)" style="font-family: Montserrat-SemiBold, Montserrat; font-size: 24px; font-weight: 600;"><tspan x="0" y="0">Análisis situ</tspan><tspan x="146.95" y="0" style="letter-spacing: 0em;">a</tspan><tspan x="161.54" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="175.36" y="0">ional</tspan><tspan x="20.25" y="28.8">Análisis </tspan><tspan x="121.39" y="28.8" style="letter-spacing: 0em;">P</tspan><tspan x="138.57" y="28.8">E</tspan><tspan x="154.65" y="28.8" style="letter-spacing: 0em;">S</tspan><tspan x="169.51" y="28.8" style="letter-spacing: -.03em;">T</tspan><tspan x="183.12" y="28.8">AL</tspan><tspan x="30.86" y="57.6">Análisis </tspan><tspan x="132" y="57.6" style="letter-spacing: 0em;">F</tspan><tspan x="147.09" y="57.6">O</tspan><tspan x="167.3" y="57.6" style="letter-spacing: 0em;">D</tspan><tspan x="186.88" y="57.6">A</tspan></text>
+  <text transform="translate(125.27 243.84)" style="font-family: Montserrat-SemiBold, Montserrat; font-size: 24px; font-weight: 600;"><tspan x="0" y="0">Misión</tspan></text>
+  <text transform="translate(349.44 242.72)" style="font-family: Montserrat-SemiBold, Montserrat; font-size: 24px; font-weight: 600;"><tspan x="0" y="0" style="letter-spacing: 0em;">V</tspan><tspan x="17.26" y="0">isión</tspan></text>
+  <text transform="translate(554.57 244.27)" style="font-family: Montserrat-SemiBold, Montserrat; font-size: 24px; font-weight: 600;"><tspan x="0" y="0" style="letter-spacing: -.05em;">V</tspan><tspan x="16.18" y="0">alo</tspan><tspan x="53.16" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="63" y="0">es</tspan></text>
+  <g>
+    <path d="M140.67,124.01c3.17-4.12,6.63-7.97,10.58-11.27,3.96-3.26,8.25-6.06,12.78-8.31,4.53-2.25,9.3-3.94,14.18-5.01,2.45-.49,4.91-.92,7.4-1.04,2.47-.16,5.01-.15,7.38.54-2.43-.4-4.89-.12-7.28.32-2.4.4-4.74,1.11-7.04,1.85-4.58,1.58-8.94,3.73-12.94,6.35-4.01,2.62-7.67,5.69-10.93,9.08-3.24,3.43-5.95,7.28-8.33,11.26l-.07.12c-.99,1.64-3.12,2.18-4.76,1.19-1.64-.99-2.18-3.12-1.19-4.76.07-.11.15-.23.22-.33Z" style="fill: #f0a758;"/>
+    <polygon points="163.32 118.82 144.82 123.9 139.75 105.4 134.05 115.41 139.13 133.9 157.63 128.83 163.32 118.82" style="fill: #f0a758;"/>
+  </g>
+  <g>
+    <path d="M313.03,239.72l-69.25-3.53,69.25-3.53c1.95-.1,3.61,1.4,3.71,3.35.1,1.95-1.4,3.61-3.35,3.71-.12,0-.24,0-.36,0Z" style="fill: #f0a758;"/>
+    <polygon points="297.09 222.63 310.66 236.19 297.09 249.75 308.61 249.75 322.17 236.19 308.61 222.63 297.09 222.63" style="fill: #f0a758;"/>
+  </g>
+  <g>
+    <path d="M527.81,239.72l-69.25-3.53,69.25-3.53c1.95-.1,3.61,1.4,3.71,3.35.1,1.95-1.4,3.61-3.35,3.71-.12,0-.24,0-.36,0Z" style="fill: #f0a758;"/>
+    <polygon points="511.88 222.63 525.45 236.19 511.88 249.75 523.4 249.75 536.96 236.19 523.4 222.63 511.88 222.63" style="fill: #f0a758;"/>
+  </g>
+</svg>

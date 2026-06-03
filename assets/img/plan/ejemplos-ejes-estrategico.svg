@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768 612">
+  <defs>
+    <linearGradient id="Degradado_sin_nombre_139" data-name="Degradado sin nombre 139" x1="2498.58" y1="5464.07" x2="2522.38" y2="5464.07" gradientTransform="translate(2160.48 -5585.32) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d0462a"/>
+      <stop offset=".97" stop-color="#82262c"/>
+      <stop offset="1" stop-color="#c1272d"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_139-2" data-name="Degradado sin nombre 139" x1="13485.98" y1="5183.29" x2="13509.78" y2="5183.29" gradientTransform="translate(13264.73 -5808.93) rotate(135)" xlink:href="#Degradado_sin_nombre_139"/>
+    <linearGradient id="Degradado_sin_nombre_139-3" data-name="Degradado sin nombre 139" x1="13157.69" y1="-6183.51" x2="13181.49" y2="-6183.51" gradientTransform="translate(13723.13 4993.45) rotate(-135)" xlink:href="#Degradado_sin_nombre_139"/>
+    <linearGradient id="Degradado_sin_nombre_139-4" data-name="Degradado sin nombre 139" x1="1838.39" y1="-5475.82" x2="1862.2" y2="-5475.82" gradientTransform="translate(2618.88 5217.06) rotate(-45)" xlink:href="#Degradado_sin_nombre_139"/>
+    <linearGradient id="Degradado_sin_nombre_122" data-name="Degradado sin nombre 122" x1="79.19" y1="49.31" x2="103.77" y2="49.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d8431"/>
+      <stop offset="1" stop-color="#b5d96e"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_122-2" data-name="Degradado sin nombre 122" x1="7370.94" y1="-8040.45" x2="7381.34" y2="-8040.45" gradientTransform="translate(8127.82 7426.43) rotate(-90)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_122-3" data-name="Degradado sin nombre 122" x1="530.3" y1="-4028.58" x2="543.78" y2="-4028.58" gradientTransform="translate(632.19 -3966.17) rotate(-180)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_122-4" data-name="Degradado sin nombre 122" x1="11451.63" y1="-7593.03" x2="11457.33" y2="-7593.03" gradientTransform="translate(-7495.7 -11392.85) rotate(90)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_283" data-name="Degradado sin nombre 283" x1="36.14" y1="161.57" x2="104.63" y2="161.57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e6539"/>
+      <stop offset="1" stop-color="#5e834a"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_265" data-name="Degradado sin nombre 265" x1="-141.07" y1="174.81" x2="-138.56" y2="174.81" gradientTransform="translate(190.87 -15.64)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#4b6060"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_265-2" data-name="Degradado sin nombre 265" y1="170.3" y2="170.3" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-3" data-name="Degradado sin nombre 265" x1="-143.13" y1="172.47" x2="-135.76" y2="172.47" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-4" data-name="Degradado sin nombre 265" x1="-136.56" y1="174.69" x2="-134.05" y2="174.69" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-5" data-name="Degradado sin nombre 265" x1="-136.56" y1="170.18" x2="-134.05" y2="170.18" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_1344" data-name="Degradado sin nombre 1344" x1="17577.97" y1="431.45" x2="17581.23" y2="431.45" gradientTransform="translate(-17521.41 -274.62)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00519f"/>
+      <stop offset="1" stop-color="#5fd0ff"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_503" data-name="Degradado sin nombre 503" x1="17579.43" y1="431.45" x2="17581" y2="431.45" gradientTransform="translate(-17522.63 -274.62)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bdbdbd"/>
+      <stop offset="1" stop-color="#666"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_1344-2" data-name="Degradado sin nombre 1344" x1="17580.19" y1="431.45" x2="17583.96" y2="431.45" gradientTransform="translate(-17526.35 -274.62)" xlink:href="#Degradado_sin_nombre_1344"/>
+    <linearGradient id="Degradado_sin_nombre_139-5" data-name="Degradado sin nombre 139" x1="2584.43" y1="5508.09" x2="2593.01" y2="5508.09" xlink:href="#Degradado_sin_nombre_139"/>
+    <linearGradient id="Degradado_sin_nombre_139-6" data-name="Degradado sin nombre 139" x1="13522.38" y1="5105.05" x2="13530.96" y2="5105.05" gradientTransform="translate(13264.73 -5808.93) rotate(135)" xlink:href="#Degradado_sin_nombre_139"/>
+    <linearGradient id="Degradado_sin_nombre_139-7" data-name="Degradado sin nombre 139" x1="13071.89" y1="-6212.35" x2="13080.46" y2="-6212.35" gradientTransform="translate(13723.13 4993.45) rotate(-135)" xlink:href="#Degradado_sin_nombre_139"/>
+    <linearGradient id="Degradado_sin_nombre_139-8" data-name="Degradado sin nombre 139" x1="1801.94" y1="-5382.4" x2="1810.52" y2="-5382.4" gradientTransform="translate(2618.88 5217.06) rotate(-45)" xlink:href="#Degradado_sin_nombre_139"/>
+    <linearGradient id="Degradado_sin_nombre_122-5" data-name="Degradado sin nombre 122" x1="539.38" y1="-4110.57" x2="546.93" y2="-4110.57" gradientTransform="translate(641.15 -3966) rotate(-180)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_122-6" data-name="Degradado sin nombre 122" x1="11535.11" y1="-7585.93" x2="11538.31" y2="-7585.93" gradientTransform="translate(-7486.71 -11392.56) rotate(90)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_503-2" data-name="Degradado sin nombre 503" x1="41.16" y1="183.18" x2="57.65" y2="183.18" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-3" data-name="Degradado sin nombre 503" x1="17142.6" y1="-699.61" x2="17159.09" y2="-699.61" gradientTransform="translate(17200.25 -520.65) rotate(-180)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-4" data-name="Degradado sin nombre 503" x1="8081.63" y1="-8958.6" x2="8090.12" y2="-8958.6" gradientTransform="translate(9013.51 8266.97) rotate(-90)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-5" data-name="Degradado sin nombre 503" x1="8981.47" y1="8113.1" x2="8989.96" y2="8113.1" gradientTransform="translate(8157.2 -8804.68) rotate(90)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_122-7" data-name="Degradado sin nombre 122" x1="12865.41" y1="6088.54" x2="12877.48" y2="6088.54" gradientTransform="translate(13494.87 4983.08) rotate(-135) scale(1 -1)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_296" data-name="Degradado sin nombre 296" x1="15604.11" y1="178.5" x2="15612.52" y2="178.5" gradientTransform="translate(15701.61) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d8431"/>
+      <stop offset="1" stop-color="#22b573"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_122-8" data-name="Degradado sin nombre 122" x1="14096.55" y1="4755.31" x2="14104.96" y2="4755.31" gradientTransform="translate(14393.77 4294.41) rotate(-145.31) scale(1 -1)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_296-2" data-name="Degradado sin nombre 296" x1="15599.02" y1="180.64" x2="15607.75" y2="180.64" xlink:href="#Degradado_sin_nombre_296"/>
+    <linearGradient id="Degradado_sin_nombre_122-9" data-name="Degradado sin nombre 122" x1="14091.23" y1="4754.27" x2="14099.72" y2="4754.27" gradientTransform="translate(14393.77 4294.41) rotate(-145.31) scale(1 -1)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_265-6" data-name="Degradado sin nombre 265" x1="7334.51" y1="4549.31" x2="7343.97" y2="4549.31" gradientTransform="translate(-7286.72 -4119.41)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-7" data-name="Degradado sin nombre 265" x1="7334.51" y1="4532.36" x2="7343.97" y2="4532.36" gradientTransform="translate(-7286.72 -4085.5)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-8" data-name="Degradado sin nombre 265" x1="10113.12" y1="-3937.11" x2="10123.92" y2="-3937.11" gradientTransform="translate(-10055.17 4375.3)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_122-10" data-name="Degradado sin nombre 122" x1="10091.63" y1="-3937.11" x2="10103.92" y2="-3937.11" gradientTransform="translate(-10055.17 4375.3)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_254" data-name="Degradado sin nombre 254" x1="10097.13" y1="-3937.11" x2="10103.03" y2="-3937.11" gradientTransform="translate(-10055.17 4375.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3fb1ff"/>
+      <stop offset="1" stop-color="#4b6060"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_122-11" data-name="Degradado sin nombre 122" x1="10099.98" y1="-3937.11" x2="10114.19" y2="-3937.11" gradientTransform="translate(-10055.17 4375.3)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_265-9" data-name="Degradado sin nombre 265" x1="7316.36" y1="4549.37" x2="7325.82" y2="4549.37" gradientTransform="translate(-7250.41 -4119.52)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-10" data-name="Degradado sin nombre 265" x1="7316.36" y1="4532.42" x2="7325.82" y2="4532.42" gradientTransform="translate(-7250.41 -4085.62)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-11" data-name="Degradado sin nombre 265" x1="7293.32" y1="4549.32" x2="7302.78" y2="4549.32" gradientTransform="translate(-7204.34 -4119.42)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-12" data-name="Degradado sin nombre 265" x1="7293.32" y1="4532.37" x2="7302.78" y2="4532.37" gradientTransform="translate(-7204.34 -4085.52)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_122-12" data-name="Degradado sin nombre 122" x1="58.07" y1="436.82" x2="133.35" y2="441.09" gradientTransform="translate(164.54 876.38) rotate(-180)" xlink:href="#Degradado_sin_nombre_122"/>
+    <linearGradient id="Degradado_sin_nombre_503-6" data-name="Degradado sin nombre 503" x1="84.58" y1="469.17" x2="79.91" y2="473.35" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-7" data-name="Degradado sin nombre 503" x1="88.31" y1="469.83" x2="92.48" y2="472.29" gradientTransform="translate(561.97 380.53) rotate(90)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-8" data-name="Degradado sin nombre 503" x1="88.2" y1="466.1" x2="91.39" y2="461.92" gradientTransform="translate(181.4 925.66) rotate(180)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-9" data-name="Degradado sin nombre 503" x1="84.79" y1="465.93" x2="81.59" y2="461.99" gradientTransform="translate(-380.56 545.1) rotate(-90)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-10" data-name="Degradado sin nombre 503" x1="56.07" y1="475.09" x2="86.24" y2="476.8" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_265-13" data-name="Degradado sin nombre 265" x1="-140.5" y1="299.48" x2="-136.45" y2="299.48" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-14" data-name="Degradado sin nombre 265" x1="-140.5" y1="292.23" x2="-136.45" y2="292.23" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-15" data-name="Degradado sin nombre 265" x1="-143.81" y1="295.71" x2="-131.95" y2="295.71" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-16" data-name="Degradado sin nombre 265" x1="-133.23" y1="299.29" x2="-129.19" y2="299.29" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-17" data-name="Degradado sin nombre 265" x1="-133.23" y1="292.04" x2="-129.19" y2="292.04" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_1344-3" data-name="Degradado sin nombre 1344" x1="17571.28" y1="308.2" x2="17576.53" y2="308.2" gradientTransform="translate(-17510.01 -28.13)" xlink:href="#Degradado_sin_nombre_1344"/>
+    <linearGradient id="Degradado_sin_nombre_503-11" data-name="Degradado sin nombre 503" x1="17573.63" y1="308.2" x2="17576.15" y2="308.2" gradientTransform="translate(-17511.98 -28.13)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_1344-4" data-name="Degradado sin nombre 1344" x1="17574.85" y1="308.2" x2="17580.92" y2="308.2" gradientTransform="translate(-17517.97 -28.13)" xlink:href="#Degradado_sin_nombre_1344"/>
+    <linearGradient id="Degradado_sin_nombre_503-12" data-name="Degradado sin nombre 503" x1="45.26" y1="247.25" x2="95.5" y2="247.25" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-13" data-name="Degradado sin nombre 503" x1="17104.74" y1="-755.01" x2="17154.99" y2="-755.01" gradientTransform="translate(17200.25 -520.65) rotate(-180)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-14" data-name="Degradado sin nombre 503" x1="8013.2" y1="-8926.42" x2="8039.04" y2="-8926.42" gradientTransform="translate(9013.51 8266.97) rotate(-90)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-15" data-name="Degradado sin nombre 503" x1="9032.55" y1="8103.25" x2="9058.39" y2="8103.25" gradientTransform="translate(8157.2 -8804.68) rotate(90)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_265-18" data-name="Degradado sin nombre 265" x1="7184.29" y1="4781.1" x2="7187.87" y2="4781.1" gradientTransform="translate(-7108.25 -4501.97)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_265-19" data-name="Degradado sin nombre 265" x1="7184.29" y1="4774.68" x2="7187.87" y2="4774.68" gradientTransform="translate(-7101.83 -4495.55)" xlink:href="#Degradado_sin_nombre_265"/>
+    <linearGradient id="Degradado_sin_nombre_254-2" data-name="Degradado sin nombre 254" x1="10256.85" y1="-4174.04" x2="10259.09" y2="-4174.04" gradientTransform="translate(-10177 4456.05)" xlink:href="#Degradado_sin_nombre_254"/>
+    <linearGradient id="Degradado_sin_nombre_503-16" data-name="Degradado sin nombre 503" x1="39.64" y1="338.51" x2="76.39" y2="338.51" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-17" data-name="Degradado sin nombre 503" x1="17123.85" y1="-849.74" x2="17160.61" y2="-849.74" gradientTransform="translate(17200.25 -520.65) rotate(-180)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-18" data-name="Degradado sin nombre 503" x1="7923.68" y1="-8943.26" x2="7942.58" y2="-8943.26" gradientTransform="translate(9013.51 8266.97) rotate(-90)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_503-19" data-name="Degradado sin nombre 503" x1="9129.01" y1="8111.16" x2="9147.91" y2="8111.16" gradientTransform="translate(8157.2 -8804.68) rotate(90)" xlink:href="#Degradado_sin_nombre_503"/>
+    <linearGradient id="Degradado_sin_nombre_139-9" data-name="Degradado sin nombre 139" x1="2721.8" y1="5642.6" x2="2734.94" y2="5642.6" xlink:href="#Degradado_sin_nombre_139"/>
+    <linearGradient id="Degradado_sin_nombre_139-10" data-name="Degradado sin nombre 139" x1="13659.18" y1="4965.41" x2="13672.32" y2="4965.41" gradientTransform="translate(13264.73 -5808.93) rotate(135)" xlink:href="#Degradado_sin_nombre_139"/>
+    <linearGradient id="Degradado_sin_nombre_139-11" data-name="Degradado sin nombre 139" x1="12934.51" y1="-6351.42" x2="12947.65" y2="-6351.42" gradientTransform="translate(13723.13 4993.45) rotate(-135)" xlink:href="#Degradado_sin_nombre_139"/>
+    <linearGradient id="Degradado_sin_nombre_139-12" data-name="Degradado sin nombre 139" x1="1665.16" y1="-5247.31" x2="1678.3" y2="-5247.31" gradientTransform="translate(2618.88 5217.06) rotate(-45)" xlink:href="#Degradado_sin_nombre_139"/>
+  </defs>
+  <rect y="3.14" width="768" height="605.72" rx="16.63" ry="16.63" style="fill: #fff;"/>
+  <rect x="126.65" y="24.01" width="615.08" height="81.5" rx="11.03" ry="11.03" style="fill: #99c5c6;"/>
+  <rect x="126.65" y="121.08" width="615.08" height="81.5" rx="11.03" ry="11.03" style="fill: #99c5c6;"/>
+  <rect x="126.65" y="218.14" width="615.08" height="81.5" rx="11.03" ry="11.03" style="fill: #99c5c6;"/>
+  <rect x="126.65" y="315.21" width="615.08" height="81.5" rx="11.03" ry="11.03" style="fill: #99c5c6;"/>
+  <rect x="126.65" y="412.28" width="615.08" height="81.5" rx="11.03" ry="11.03" style="fill: #99c5c6;"/>
+  <rect x="126.65" y="509.34" width="615.08" height="81.5" rx="11.03" ry="11.03" style="fill: #99c5c6;"/>
+  <text transform="translate(143.39 53.54)" style="font-family: Montserrat-SemiBold, Montserrat; font-weight: 600;"><tspan style="font-size: 15.95px;"><tspan x="0" y="0">O</tspan><tspan x="13.43" y="0" style="letter-spacing: -.01em;">r</tspan><tspan x="19.97" y="0">denamien</tspan><tspan x="103.72" y="0" style="letter-spacing: -.02em;">t</tspan><tspan x="110.2" y="0">o </tspan><tspan x="124.89" y="0" style="letter-spacing: -.02em;">t</tspan><tspan x="131.37" y="0">e</tspan><tspan x="141.29" y="0" style="letter-spacing: 0em;">rr</tspan><tspan x="154.53" y="0">i</tspan><tspan x="159.14" y="0" style="letter-spacing: -.02em;">t</tspan><tspan x="165.62" y="0">o</tspan><tspan x="175.9" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="182.52" y="0">ial</tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="24.81">Pla</tspan><tspan x="20.12" y="24.81" style="letter-spacing: 0em;">n</tspan><tspan x="28.64" y="24.81">es </tspan><tspan x="46.17" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="51.25" y="24.81">egul</tspan><tspan x="79.62" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="87.16" y="24.81">do</tspan><tspan x="103.69" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="108.77" y="24.81" style="letter-spacing: 0em;">es, sis</tspan><tspan x="145.7" y="24.81" style="letter-spacing: -.02em;">t</tspan><tspan x="150.73" y="24.81">emas de pe</tspan><tspan x="224.76" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="229.9" y="24.81">misos de </tspan><tspan x="290.43" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="297.54" y="24.81">onstru</tspan><tspan x="339.35" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="346.46" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="353.6" y="24.81" style="letter-spacing: 0em;">ión, in</tspan><tspan x="392.23" y="24.81" style="letter-spacing: 0em;">f</tspan><tspan x="396.71" y="24.81">o</tspan><tspan x="404.71" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="409.86" y="24.81">m</tspan><tspan x="422.92" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="430.47" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="437.61" y="24.81">ión geog</tspan><tspan x="494.06" y="24.81" style="letter-spacing: -.04em;">r</tspan><tspan x="498.74" y="24.81">áfica, </tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="37.22">catast</tspan><tspan x="39.18" y="37.22" style="letter-spacing: 0em;">r</tspan><tspan x="44.27" y="37.22">o</tspan></tspan></text>
+  <text transform="translate(143.39 142.52)" style="font-family: Montserrat-SemiBold, Montserrat; font-weight: 600;"><tspan style="font-size: 15.95px;"><tspan x="0" y="0" style="letter-spacing: -.01em;">P</tspan><tspan x="11.39" y="0">olítica so</tspan><tspan x="84.13" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="93.32" y="0">ial local</tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="24.81" style="letter-spacing: -.02em;">C</tspan><tspan x="8.77" y="24.81">om</tspan><tspan x="29.84" y="24.81" style="letter-spacing: 0em;">b</tspan><tspan x="38.26" y="24.81">a</tspan><tspan x="45.8" y="24.81" style="letter-spacing: -.02em;">t</tspan><tspan x="50.83" y="24.81">e la pob</tspan><tspan x="101.54" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="106.63" y="24.81" style="letter-spacing: 0em;">e</tspan><tspan x="114.28" y="24.81">za, i</tspan><tspan x="138.45" y="24.81" style="letter-spacing: 0em;">n</tspan><tspan x="146.96" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="154.11" y="24.81">lusión de grupos pobl</tspan><tspan x="292.92" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="300.46" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="307.61" y="24.81" style="letter-spacing: 0em;">ionales di</tspan><tspan x="368.45" y="24.81" style="letter-spacing: -.02em;">v</tspan><tspan x="375.44" y="24.81">ersos, equid</tspan><tspan x="452.39" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="459.93" y="24.81">d de gé</tspan><tspan x="507.87" y="24.81" style="letter-spacing: 0em;">n</tspan><tspan x="516.38" y="24.81">e</tspan><tspan x="524.1" y="24.81" style="letter-spacing: 0em;">ro</tspan><tspan x="537.07" y="24.81">, </tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="37.22">vivie</tspan><tspan x="29.23" y="37.22" style="letter-spacing: 0em;">n</tspan><tspan x="37.74" y="37.22">da, es</tspan><tspan x="74.36" y="37.22" style="letter-spacing: 0em;">p</tspan><tspan x="82.78" y="37.22" style="letter-spacing: 0em;">a</tspan><tspan x="90.32" y="37.22" style="letter-spacing: 0em;">c</tspan><tspan x="97.47" y="37.22">ios públi</tspan><tspan x="151.52" y="37.22" style="letter-spacing: 0em;">c</tspan><tspan x="158.62" y="37.22">os, salud, educ</tspan><tspan x="252.3" y="37.22" style="letter-spacing: 0em;">a</tspan><tspan x="259.84" y="37.22" style="letter-spacing: 0em;">c</tspan><tspan x="266.99" y="37.22">ión, identid</tspan><tspan x="339.22" y="37.22" style="letter-spacing: 0em;">a</tspan><tspan x="346.77" y="37.22">d y cu</tspan><tspan x="384.97" y="37.22" style="letter-spacing: .03em;">l</tspan><tspan x="388.88" y="37.22">tu</tspan><tspan x="402.59" y="37.22" style="letter-spacing: -.04em;">r</tspan><tspan x="407.26" y="37.22">a, </tspan><tspan x="421.25" y="37.22" style="letter-spacing: 0em;">r</tspan><tspan x="426.33" y="37.22">ec</tspan><tspan x="441.26" y="37.22" style="letter-spacing: 0em;">r</tspan><tspan x="446.35" y="37.22" style="letter-spacing: -.01em;">e</tspan><tspan x="453.88" y="37.22" style="letter-spacing: 0em;">a</tspan><tspan x="461.42" y="37.22" style="letter-spacing: 0em;">c</tspan><tspan x="468.57" y="37.22">ión y depo</tspan><tspan x="535.43" y="37.22" style="letter-spacing: .01em;">r</tspan><tspan x="540.83" y="37.22" style="letter-spacing: -.02em;">t</tspan><tspan x="545.86" y="37.22">e, </tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="49.63" style="letter-spacing: 0em;">a</tspan><tspan x="7.54" y="49.63">du</tspan><tspan x="24.52" y="49.63" style="letter-spacing: .03em;">l</tspan><tspan x="28.42" y="49.63" style="letter-spacing: -.02em;">t</tspan><tspan x="33.46" y="49.63">os m</tspan><tspan x="64.34" y="49.63" style="letter-spacing: 0em;">a</tspan><tspan x="71.75" y="49.63" style="letter-spacing: -.01em;">y</tspan><tspan x="78.74" y="49.63">o</tspan><tspan x="86.74" y="49.63" style="letter-spacing: 0em;">r</tspan><tspan x="91.83" y="49.63">es, ni</tspan><tspan x="124.47" y="49.63" style="letter-spacing: 0em;">ñ</tspan><tspan x="132.98" y="49.63" style="letter-spacing: 0em;">e</tspan><tspan x="140.64" y="49.63">z y </tspan><tspan x="161.26" y="49.63" style="letter-spacing: 0em;">a</tspan><tspan x="168.8" y="49.63">doles</tspan><tspan x="203.02" y="49.63" style="letter-spacing: 0em;">c</tspan><tspan x="210.13" y="49.63">e</tspan><tspan x="217.84" y="49.63" style="letter-spacing: 0em;">n</tspan><tspan x="226.36" y="49.63" style="letter-spacing: 0em;">c</tspan><tspan x="233.5" y="49.63">ia, </tspan><tspan x="251.07" y="49.63" style="letter-spacing: 0em;">r</tspan><tspan x="256.16" y="49.63">esolu</tspan><tspan x="290.3" y="49.63" style="letter-spacing: 0em;">c</tspan><tspan x="297.45" y="49.63">ión a</tspan><tspan x="328.49" y="49.63" style="letter-spacing: .03em;">l</tspan><tspan x="332.4" y="49.63" style="letter-spacing: -.02em;">t</tspan><tspan x="337.44" y="49.63">e</tspan><tspan x="345.15" y="49.63" style="letter-spacing: 0em;">r</tspan><tspan x="350.3" y="49.63">na de </tspan><tspan x="389.42" y="49.63" style="letter-spacing: 0em;">c</tspan><tspan x="396.53" y="49.63">onfli</tspan><tspan x="424.83" y="49.63" style="letter-spacing: 0em;">c</tspan><tspan x="432.13" y="49.63" style="letter-spacing: -.02em;">t</tspan><tspan x="437.17" y="49.63">os</tspan></tspan></text>
+  <text transform="translate(143.39 246.92)" style="font-family: Montserrat-SemiBold, Montserrat; font-weight: 600;"><tspan style="font-size: 15.95px;"><tspan x="0" y="0">Desa</tspan><tspan x="41" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="47.62" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="54.16" y="0">ollo e</tspan><tspan x="98.28" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="107.42" y="0">o</tspan><tspan x="117.71" y="0" style="letter-spacing: 0em;">n</tspan><tspan x="128.65" y="0">ómi</tspan><tspan x="160.35" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="169.49" y="0">o local</tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="24.81">Emple</tspan><tspan x="41.19" y="24.81" style="letter-spacing: 0em;">o</tspan><tspan x="49.07" y="24.81">, emp</tspan><tspan x="84.82" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="89.9" y="24.81">e</tspan><tspan x="97.62" y="24.81" style="letter-spacing: 0em;">n</tspan><tspan x="106.13" y="24.81">dedu</tspan><tspan x="139.35" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="144.49" y="24.81">is</tspan><tspan x="154.47" y="24.81" style="letter-spacing: 0em;">m</tspan><tspan x="167.55" y="24.81" style="letter-spacing: 0em;">o</tspan><tspan x="175.43" y="24.81">, i</tspan><tspan x="185.46" y="24.81" style="letter-spacing: 0em;">n</tspan><tspan x="193.84" y="24.81" style="letter-spacing: -.01em;">v</tspan><tspan x="200.82" y="24.81">ersión, p</tspan><tspan x="255.19" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="260.28" y="24.81">o</tspan><tspan x="268.28" y="24.81" style="letter-spacing: 0em;">m</tspan><tspan x="281.36" y="24.81">o</tspan><tspan x="289.36" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="296.51" y="24.81">ión e</tspan><tspan x="327.73" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="334.84" y="24.81">o</tspan><tspan x="342.85" y="24.81" style="letter-spacing: 0em;">n</tspan><tspan x="351.36" y="24.81">ómica, tu</tspan><tspan x="410.91" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="416.06" y="24.81">is</tspan><tspan x="426.04" y="24.81" style="letter-spacing: 0em;">m</tspan><tspan x="439.11" y="24.81">o ru</tspan><tspan x="464.2" y="24.81" style="letter-spacing: -.04em;">r</tspan><tspan x="468.88" y="24.81">al </tspan><tspan x="483.42" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="490.53" y="24.81">omunita</tspan><tspan x="544.92" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="550.07" y="24.81">io</tspan></tspan></text>
+  <text transform="translate(143.39 344.66)" style="font-family: Montserrat-SemiBold, Montserrat; font-weight: 600;"><tspan style="font-size: 15.95px;"><tspan x="0" y="0">Se</tspan><tspan x="19.96" y="0" style="letter-spacing: .01em;">r</tspan><tspan x="26.9" y="0">vi</tspan><tspan x="40.73" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="49.91" y="0">ios públi</tspan><tspan x="119.4" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="128.54" y="0">os muni</tspan><tspan x="194.65" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="203.84" y="0">i</tspan><tspan x="208.45" y="0" style="letter-spacing: 0em;">p</tspan><tspan x="219.28" y="0" style="letter-spacing: 0em;">ales</tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="24.81">Se</tspan><tspan x="15.52" y="24.81" style="letter-spacing: .01em;">r</tspan><tspan x="20.92" y="24.81">vi</tspan><tspan x="31.68" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="38.82" y="24.81">ios p</tspan><tspan x="68.73" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="73.82" y="24.81">est</tspan><tspan x="93.19" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="100.73" y="24.81">dos por la muni</tspan><tspan x="200.36" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="207.51" y="24.81">i</tspan><tspan x="211.09" y="24.81" style="letter-spacing: 0em;">p</tspan><tspan x="219.52" y="24.81">alid</tspan><tspan x="242.74" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="250.29" y="24.81">d: aseo de vías, </tspan><tspan x="349.12" y="24.81" style="letter-spacing: 0em;">p</tspan><tspan x="357.55" y="24.81">a</tspan><tspan x="365.08" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="370.17" y="24.81">ques, </tspan><tspan x="407.69" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="414.79" y="24.81">e</tspan><tspan x="422.51" y="24.81" style="letter-spacing: 0em;">m</tspan><tspan x="435.59" y="24.81">en</tspan><tspan x="451.81" y="24.81" style="letter-spacing: -.02em;">t</tspan><tspan x="456.84" y="24.81">e</tspan><tspan x="464.56" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="469.71" y="24.81">i</tspan><tspan x="473.29" y="24.81" style="letter-spacing: 0em;">o</tspan><tspan x="481.17" y="24.81">, </tspan><tspan x="487.62" y="24.81" style="letter-spacing: 0em;">m</tspan><tspan x="500.7" y="24.81">e</tspan><tspan x="508.42" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="513.51" y="24.81">c</tspan><tspan x="520.71" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="528.26" y="24.81">do y </tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="37.22">plata</tspan><tspan x="32.42" y="37.22" style="letter-spacing: 0em;">f</tspan><tspan x="36.9" y="37.22">o</tspan><tspan x="44.9" y="37.22" style="letter-spacing: 0em;">r</tspan><tspan x="50.05" y="37.22">mas de se</tspan><tspan x="114.23" y="37.22" style="letter-spacing: .01em;">r</tspan><tspan x="119.63" y="37.22">vi</tspan><tspan x="130.39" y="37.22" style="letter-spacing: 0em;">c</tspan><tspan x="137.53" y="37.22">io (simplific</tspan><tspan x="210.99" y="37.22" style="letter-spacing: 0em;">a</tspan><tspan x="218.54" y="37.22" style="letter-spacing: 0em;">c</tspan><tspan x="225.69" y="37.22">ión de t</tspan><tspan x="274.12" y="37.22" style="letter-spacing: -.04em;">r</tspan><tspan x="278.8" y="37.22">ámi</tspan><tspan x="302.98" y="37.22" style="letter-spacing: -.02em;">t</tspan><tspan x="308.02" y="37.22">es)</tspan></tspan></text>
+  <text transform="translate(143.39 433.49)" style="font-family: Montserrat-SemiBold, Montserrat; font-weight: 600;"><tspan style="font-size: 15.95px;"><tspan x="0" y="0">Ambien</tspan><tspan x="65.15" y="0" style="letter-spacing: -.02em;">t</tspan><tspan x="71.63" y="0">e</tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="24.81" style="letter-spacing: -.01em;">T</tspan><tspan x="7.31" y="24.81" style="letter-spacing: -.04em;">r</tspan><tspan x="11.99" y="24.81">atamien</tspan><tspan x="65.18" y="24.81" style="letter-spacing: -.02em;">t</tspan><tspan x="70.21" y="24.81">o de </tspan><tspan x="101.31" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="106.39" y="24.81">esiduos sólidos y líquidos, gestión in</tspan><tspan x="338.03" y="24.81" style="letter-spacing: -.02em;">t</tspan><tspan x="343.07" y="24.81">eg</tspan><tspan x="359.4" y="24.81" style="letter-spacing: -.04em;">r</tspan><tspan x="364.07" y="24.81">al de </tspan><tspan x="398.28" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="403.43" y="24.81">iesgos so</tspan><tspan x="461.94" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="469.09" y="24.81">i</tspan><tspan x="472.67" y="24.81" style="letter-spacing: 0em;">o</tspan><tspan x="480.8" y="24.81">-ambientales, </tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="37.22">p</tspan><tspan x="8.51" y="37.22" style="letter-spacing: 0em;">r</tspan><tspan x="13.6" y="37.22" style="letter-spacing: -.01em;">oy</tspan><tspan x="28.4" y="37.22">e</tspan><tspan x="36.12" y="37.22" style="letter-spacing: 0em;">c</tspan><tspan x="43.41" y="37.22" style="letter-spacing: -.02em;">t</tspan><tspan x="48.45" y="37.22">os di</tspan><tspan x="78.38" y="37.22" style="letter-spacing: -.01em;">v</tspan><tspan x="85.36" y="37.22">ersos en el á</tspan><tspan x="164.39" y="37.22" style="letter-spacing: 0em;">r</tspan><tspan x="169.48" y="37.22" style="letter-spacing: -.01em;">e</tspan><tspan x="177.01" y="37.22">a ambiental, p</tspan><tspan x="268.22" y="37.22" style="letter-spacing: 0em;">r</tspan><tspan x="273.3" y="37.22">o</tspan><tspan x="281.31" y="37.22" style="letter-spacing: -.02em;">t</tspan><tspan x="286.34" y="37.22">e</tspan><tspan x="294.06" y="37.22" style="letter-spacing: 0em;">c</tspan><tspan x="301.17" y="37.22" style="letter-spacing: 0em;">c</tspan><tspan x="308.32" y="37.22">ión de </tspan><tspan x="351.49" y="37.22" style="letter-spacing: 0em;">r</tspan><tspan x="356.64" y="37.22">íos, cue</tspan><tspan x="404.45" y="37.22" style="letter-spacing: 0em;">n</tspan><tspan x="412.96" y="37.22">cas, mic</tspan><tspan x="464.4" y="37.22" style="letter-spacing: 0em;">r</tspan><tspan x="469.49" y="37.22">o cue</tspan><tspan x="504.29" y="37.22" style="letter-spacing: 0em;">n</tspan><tspan x="512.8" y="37.22">cas, </tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="49.63">p</tspan><tspan x="8.51" y="49.63" style="letter-spacing: -.04em;">r</tspan><tspan x="13.19" y="49.63" style="letter-spacing: 0em;">á</tspan><tspan x="20.73" y="49.63" style="letter-spacing: 0em;">c</tspan><tspan x="28.03" y="49.63">ticas </tspan><tspan x="61.43" y="49.63" style="letter-spacing: 0em;">a</tspan><tspan x="68.97" y="49.63">g</tspan><tspan x="77.58" y="49.63" style="letter-spacing: 0em;">r</tspan><tspan x="82.73" y="49.63">í</tspan><tspan x="86.32" y="49.63" style="letter-spacing: 0em;">c</tspan><tspan x="93.42" y="49.63">olas y po</tspan><tspan x="149.47" y="49.63" style="letter-spacing: 0em;">r</tspan><tspan x="154.55" y="49.63" style="letter-spacing: 0em;">c</tspan><tspan x="161.7" y="49.63">inas amigables y sos</tspan><tspan x="292.46" y="49.63" style="letter-spacing: -.02em;">t</tspan><tspan x="297.5" y="49.63">enibles, ASA</tspan><tspan x="376.34" y="49.63" style="letter-spacing: 0em;">D</tspan><tspan x="386.47" y="49.63">AS</tspan></tspan></text>
+  <text transform="translate(143.39 537.83)" style="font-family: Montserrat-SemiBold, Montserrat; font-weight: 600;"><tspan style="font-size: 15.95px;"><tspan x="0" y="0">In</tspan><tspan x="16.02" y="0" style="letter-spacing: 0em;">f</tspan><tspan x="21.92" y="0" style="letter-spacing: -.04em;">r</tspan><tspan x="27.93" y="0" style="letter-spacing: 0em;">a</tspan><tspan x="37.63" y="0">estru</tspan><tspan x="80.1" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="89.47" y="0">tu</tspan><tspan x="107.1" y="0" style="letter-spacing: -.04em;">r</tspan><tspan x="113.12" y="0" style="letter-spacing: 0em;">a</tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="24.81">In</tspan><tspan x="12.46" y="24.81" style="letter-spacing: 0em;">f</tspan><tspan x="17.05" y="24.81" style="letter-spacing: -.04em;">r</tspan><tspan x="21.72" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="29.27" y="24.81">estru</tspan><tspan x="62.3" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="69.59" y="24.81">tu</tspan><tspan x="83.3" y="24.81" style="letter-spacing: -.04em;">r</tspan><tspan x="87.98" y="24.81">a vial (</tspan><tspan x="128.54" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="135.65" y="24.81">e</tspan><tspan x="143.36" y="24.81" style="letter-spacing: 0em;">m</tspan><tspan x="156.44" y="24.81">en</tspan><tspan x="172.66" y="24.81" style="letter-spacing: -.02em;">t</tspan><tspan x="177.69" y="24.81">os, as</tspan><tspan x="212.46" y="24.81" style="letter-spacing: 0em;">f</tspan><tspan x="216.91" y="24.81">a</tspan><tspan x="224.44" y="24.81" style="letter-spacing: .03em;">l</tspan><tspan x="228.35" y="24.81" style="letter-spacing: -.02em;">t</tspan><tspan x="233.39" y="24.81">os, last</tspan><tspan x="277" y="24.81" style="letter-spacing: -.04em;">r</tspan><tspan x="281.68" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="289.22" y="24.81">dos, puen</tspan><tspan x="351.77" y="24.81" style="letter-spacing: -.02em;">t</tspan><tspan x="356.8" y="24.81">es, </tspan><tspan x="377.36" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="384.91" y="24.81" style="letter-spacing: 0em;">c</tspan><tspan x="392.02" y="24.81">e</tspan><tspan x="399.73" y="24.81" style="letter-spacing: -.04em;">r</tspan><tspan x="404.41" y="24.81">as), segu</tspan><tspan x="460.27" y="24.81" style="letter-spacing: 0em;">r</tspan><tspan x="465.42" y="24.81">id</tspan><tspan x="477.53" y="24.81" style="letter-spacing: 0em;">a</tspan><tspan x="485.07" y="24.81">d vial, </tspan></tspan><tspan style="font-size: 12.41px;"><tspan x="0" y="37.22">in</tspan><tspan x="12.08" y="37.22" style="letter-spacing: 0em;">f</tspan><tspan x="16.67" y="37.22" style="letter-spacing: -.04em;">r</tspan><tspan x="21.35" y="37.22" style="letter-spacing: 0em;">a</tspan><tspan x="28.9" y="37.22">estru</tspan><tspan x="61.92" y="37.22" style="letter-spacing: 0em;">c</tspan><tspan x="69.22" y="37.22">tu</tspan><tspan x="82.93" y="37.22" style="letter-spacing: -.04em;">r</tspan><tspan x="87.61" y="37.22">a can</tspan><tspan x="121.8" y="37.22" style="letter-spacing: -.02em;">t</tspan><tspan x="126.84" y="37.22">onal</tspan></tspan></text>
+  <g>
+    <rect x="29.65" y="23.61" width="81.46" height="81.46" rx="14.8" ry="14.8" style="fill: #99c5c6;"/>
+    <g>
+      <rect x="41.56" y="43.79" width="55.42" height="48.17" style="fill: #4e6539;"/>
+      <g>
+        <polygon points="71.98 70.37 55.15 53.54 71.98 36.71 71.98 70.37" style="fill: url(#Degradado_sin_nombre_139);"/>
+        <polygon points="38.32 70.37 55.15 53.54 71.98 70.37 38.32 70.37" style="fill: url(#Degradado_sin_nombre_139-2);"/>
+        <polygon points="38.42 36.71 55.25 53.54 38.42 70.37 38.42 36.71" style="fill: url(#Degradado_sin_nombre_139-3);"/>
+        <polygon points="72.08 36.71 55.25 53.54 38.42 36.71 72.08 36.71" style="fill: url(#Degradado_sin_nombre_139-4);"/>
+      </g>
+      <g>
+        <ellipse cx="91.48" cy="49.31" rx="12.29" ry="11.42" style="fill: url(#Degradado_sin_nombre_122);"/>
+        <ellipse cx="91.03" cy="51.38" rx="7.62" ry="7.08" style="fill: #b5d96e;"/>
+        <ellipse cx="87.38" cy="50.29" rx="4.83" ry="5.2" style="fill: url(#Degradado_sin_nombre_122-2);"/>
+      </g>
+      <g>
+        <rect x="40.39" y="82.64" width="58.61" height="2.38" transform="translate(140.08 167.07) rotate(179.52)" style="fill: #a67c52;"/>
+        <g>
+          <rect x="94.08" y="80.03" width="7.52" height="7.13" transform="translate(196.38 166.36) rotate(179.52)" style="fill: #c69c6d;"/>
+          <rect x="75.06" y="80.19" width="7.52" height="7.13" transform="translate(158.34 166.84) rotate(179.52)" style="fill: #c69c6d;"/>
+          <rect x="56.04" y="80.35" width="7.52" height="7.13" transform="translate(120.31 167.32) rotate(179.52)" style="fill: #c69c6d;"/>
+          <rect x="37.02" y="80.51" width="7.52" height="7.13" transform="translate(82.27 167.8) rotate(179.52)" style="fill: #c69c6d;"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <ellipse cx="95.15" cy="62.41" rx="6.74" ry="6.26" transform="translate(-6.22 10.72) rotate(-6.25)" style="fill: url(#Degradado_sin_nombre_122-3);"/>
+      <ellipse cx="95.27" cy="61.26" rx="4.18" ry="3.88" transform="translate(-6.1 10.73) rotate(-6.25)" style="fill: #b5d96e;"/>
+      <ellipse cx="97.33" cy="61.63" rx="2.65" ry="2.85" transform="translate(-6.13 10.95) rotate(-6.25)" style="fill: url(#Degradado_sin_nombre_122-4);"/>
+    </g>
+  </g>
+  <g>
+    <rect x="29.65" y="120.84" width="81.46" height="81.46" rx="14.8" ry="14.8" style="fill: #99c5c6;"/>
+    <rect x="36.14" y="128.59" width="68.49" height="65.96" rx="7.36" ry="7.36" style="fill: url(#Degradado_sin_nombre_283);"/>
+    <rect x="37.3" y="151.9" width="66.16" height="18.95" transform="translate(231.76 91) rotate(90)" style="fill: #e6e6e6;"/>
+    <rect x="36" y="152.09" width="68.73" height="18.95" style="fill: #e6e6e6;"/>
+    <g>
+      <line x1="35.96" y1="161.57" x2="39.66" y2="161.57" style="fill: none; stroke: #fbb03b; stroke-miterlimit: 10; stroke-width: 1.23px;"/>
+      <line x1="46.46" y1="161.57" x2="97.48" y2="161.57" style="fill: none; stroke: #fbb03b; stroke-dasharray: 6.8 6.8; stroke-miterlimit: 10; stroke-width: 1.23px;"/>
+      <line x1="100.88" y1="161.57" x2="104.58" y2="161.57" style="fill: none; stroke: #fbb03b; stroke-miterlimit: 10; stroke-width: 1.23px;"/>
+    </g>
+    <g>
+      <line x1="70.38" y1="194.73" x2="70.38" y2="191.1" style="fill: none; stroke: #fbb03b; stroke-miterlimit: 10; stroke-width: 1.21px;"/>
+      <line x1="70.38" y1="184.55" x2="70.38" y2="135.47" style="fill: none; stroke: #fbb03b; stroke-dasharray: 6.54 6.54; stroke-miterlimit: 10; stroke-width: 1.21px;"/>
+      <line x1="70.38" y1="132.2" x2="70.38" y2="128.57" style="fill: none; stroke: #fbb03b; stroke-miterlimit: 10; stroke-width: 1.21px;"/>
+    </g>
+    <g>
+      <rect x="49.79" y="158.35" width="2.51" height="1.62" rx=".29" ry=".29" style="fill: url(#Degradado_sin_nombre_265);"/>
+      <rect x="49.79" y="153.85" width="2.51" height="1.62" rx=".29" ry=".29" style="fill: url(#Degradado_sin_nombre_265-2);"/>
+      <rect x="47.74" y="154.65" width="7.37" height="4.35" rx=".38" ry=".38" style="fill: url(#Degradado_sin_nombre_265-3);"/>
+      <rect x="54.31" y="158.23" width="2.51" height="1.62" rx=".29" ry=".29" style="fill: url(#Degradado_sin_nombre_265-4);"/>
+      <rect x="54.31" y="153.73" width="2.51" height="1.62" rx=".29" ry=".29" style="fill: url(#Degradado_sin_nombre_265-5);"/>
+      <path d="M57.72,154.44h1.78c.18,0,.33.15.33.33v4.12c0,.18-.15.33-.33.33h-1.78c-.64,0-1.16-.52-1.16-1.16v-2.46c0-.64.52-1.16,1.16-1.16Z" transform="translate(116.39 313.65) rotate(180)" style="fill: url(#Degradado_sin_nombre_1344);"/>
+      <path d="M57.32,154.72h1.05v4.22h-1.05c-.29,0-.52-.23-.52-.52v-3.18c0-.29.23-.52.52-.52Z" transform="translate(115.17 313.65) rotate(180)" style="fill: url(#Degradado_sin_nombre_503);"/>
+      <path d="M54.64,154.72h2.97v4.22h-2.97c-.44,0-.8-.36-.8-.8v-2.61c0-.44.36-.8.8-.8Z" transform="translate(111.45 313.65) rotate(180)" style="fill: url(#Degradado_sin_nombre_1344-2);"/>
+    </g>
+    <g>
+      <polygon points="96.17 146.06 90.11 139.99 96.17 133.93 96.17 146.06" style="fill: url(#Degradado_sin_nombre_139-5);"/>
+      <polygon points="84.05 146.06 90.11 139.99 96.17 146.06 84.05 146.06" style="fill: url(#Degradado_sin_nombre_139-6);"/>
+      <polygon points="84.08 133.93 90.15 139.99 84.08 146.06 84.08 133.93" style="fill: url(#Degradado_sin_nombre_139-7);"/>
+      <polygon points="96.21 133.93 90.15 139.99 84.08 133.93 96.21 133.93" style="fill: url(#Degradado_sin_nombre_139-8);"/>
+    </g>
+    <g>
+      <ellipse cx="98" cy="144.58" rx="3.77" ry="3.51" transform="translate(-15.15 11.52) rotate(-6.25)" style="fill: url(#Degradado_sin_nombre_122-5);"/>
+      <ellipse cx="98.06" cy="143.93" rx="2.34" ry="2.17" transform="translate(-15.08 11.52) rotate(-6.25)" style="fill: #b5d96e;"/>
+      <ellipse cx="99.21" cy="144.14" rx="1.48" ry="1.6" transform="translate(-15.09 11.65) rotate(-6.25)" style="fill: url(#Degradado_sin_nombre_122-6);"/>
+    </g>
+    <g>
+      <polygon points="57.65 185.3 41.16 185.3 46.69 181.06 52.19 181.06 57.65 185.3" style="fill: url(#Degradado_sin_nombre_503-2);"/>
+      <polygon points="41.16 176.83 57.65 176.83 52.11 181.07 46.62 181.07 41.16 176.83" style="fill: url(#Degradado_sin_nombre_503-3);"/>
+      <polygon points="52.11 181.07 57.65 185.32 57.65 176.84 52.11 181.07" style="fill: url(#Degradado_sin_nombre_503-4);"/>
+      <polygon points="46.73 181.09 41.2 176.84 41.2 185.32 46.73 181.09" style="fill: url(#Degradado_sin_nombre_503-5);"/>
+    </g>
+    <path d="M83.95,182.49c1.13-1.13,2.9-1.23,4.15-.29,1.23-.8,2.9-.66,3.98.42s1.22,2.72.43,3.95c1.21,1.24,1.21,3.23-.03,4.46-1.24,1.24-3.25,1.24-4.49,0,0,0-.02-.02-.02-.03-1.24.93-3.01.83-4.14-.3s-1.23-2.94-.26-4.19c-.83-1.24-.71-2.93.39-4.02Z" style="fill: url(#Degradado_sin_nombre_122-7);"/>
+    <g>
+      <path d="M89.09,178.42c0-1.12,1.96-.81,3.04-.97.21-1-.04-2.98,1.03-2.98s.59,2.06.81,3.05c1.21.01,3.54-.32,3.54.89s-3.6.49-3.61.49c-.16,1.07.3,3.62-.81,3.62s-.81-2.3-.95-3.39c-1.02-.2-3.04.36-3.04-.72Z" style="fill: url(#Degradado_sin_nombre_296);"/>
+      <path d="M89.89,176.04c.63-.92,2.08.45,3.05.94.74-.7,1.66-2.47,2.54-1.86.87.6-.69,2.03-1.07,2.97.99.7,3.09,1.75,2.4,2.74s-3.24-1.65-3.25-1.65c-.74.79-1.81,3.14-2.73,2.51s.64-2.35,1.15-3.32c-.73-.74-2.7-1.43-2.09-2.32Z" style="fill: url(#Degradado_sin_nombre_122-8);"/>
+    </g>
+    <g>
+      <path d="M93.87,180.56c0-1.06,2.04-.77,3.15-.92.22-.95-.04-2.83,1.07-2.83s.61,1.96.84,2.9c1.26.01,3.67-.31,3.67.84s-3.74.46-3.75.46c-.16,1.01.31,3.43-.85,3.43s-.84-2.18-.98-3.21c-1.06-.19-3.15.34-3.15-.68Z" style="fill: url(#Degradado_sin_nombre_296-2);"/>
+      <path d="M94.69,178.3c.66-.87,2.16.43,3.16.89.77-.67,1.73-2.34,2.64-1.77s-.72,1.93-1.11,2.82c1.02.66,3.21,1.66,2.49,2.6-.72.95-3.37-1.56-3.37-1.57-.77.75-1.88,2.98-2.83,2.38s.67-2.23,1.19-3.15c-.75-.7-2.81-1.36-2.17-2.2Z" style="fill: url(#Degradado_sin_nombre_122-9);"/>
+    </g>
+  </g>
+  <g>
+    <rect x="29.65" y="412.52" width="81.46" height="81.46" rx="14.8" ry="14.8" style="fill: #99c5c6;"/>
+    <g>
+      <rect x="50.9" y="437.99" width="46.25" height="38.91" style="fill: #e6e6e6;"/>
+      <g>
+        <g>
+          <rect x="47.79" y="426.85" width="9.46" height="6.11" rx="1.09" ry="1.09" transform="translate(105.04 859.81) rotate(180)" style="fill: url(#Degradado_sin_nombre_265-6);"/>
+          <rect x="47.79" y="443.8" width="9.46" height="6.11" rx="1.09" ry="1.09" transform="translate(105.04 893.71) rotate(180)" style="fill: url(#Degradado_sin_nombre_265-7);"/>
+          <path d="M59.38,436.64h8.97c.22,0,.41.18.41.41v2.28c0,.22-.18.41-.41.41h-8.97c-.79,0-1.43-.64-1.43-1.43v-.23c0-.79.64-1.43,1.43-1.43Z" style="fill: url(#Degradado_sin_nombre_265-8);"/>
+          <path d="M40.82,429.2h6.7c.68,0,1.24.55,1.24,1.24v15.51c0,.68-.55,1.24-1.24,1.24h-6.7c-2.4,0-4.36-1.95-4.36-4.36v-9.27c0-2.4,1.95-4.36,4.36-4.36Z" style="fill: url(#Degradado_sin_nombre_122-10);"/>
+          <path d="M43.91,430.25h3.95v15.88h-3.95c-1.08,0-1.95-.87-1.95-1.95v-11.97c0-1.08.87-1.95,1.95-1.95Z" style="fill: url(#Degradado_sin_nombre_254);"/>
+          <path d="M47.83,430.25h11.19v15.88h-11.19c-1.67,0-3.03-1.36-3.03-3.03v-9.82c0-1.67,1.36-3.03,3.03-3.03Z" style="fill: url(#Degradado_sin_nombre_122-11);"/>
+          <rect x="65.95" y="426.79" width="9.46" height="6.11" rx="1.09" ry="1.09" transform="translate(141.35 859.7) rotate(180)" style="fill: url(#Degradado_sin_nombre_265-9);"/>
+          <rect x="65.95" y="443.74" width="9.46" height="6.11" rx="1.09" ry="1.09" transform="translate(141.35 893.6) rotate(180)" style="fill: url(#Degradado_sin_nombre_265-10);"/>
+          <rect x="88.98" y="426.84" width="9.46" height="6.11" rx="1.09" ry="1.09" transform="translate(187.42 859.8) rotate(180)" style="fill: url(#Degradado_sin_nombre_265-11);"/>
+          <rect x="88.98" y="443.79" width="9.46" height="6.11" rx="1.09" ry="1.09" transform="translate(187.42 893.7) rotate(180)" style="fill: url(#Degradado_sin_nombre_265-12);"/>
+          <rect x="60.87" y="428.21" width="42.8" height="19.96" rx="1.98" ry="1.98" transform="translate(164.54 876.38) rotate(180)" style="fill: url(#Degradado_sin_nombre_122-12);"/>
+        </g>
+        <g>
+          <path d="M87.82,436.74l1.21,2.1c.25.44.24.97-.04,1.4-.25.38-.66.6-1.12.6h-1.25l-1.48-2.56,2.67-1.54ZM87.09,443.27c-.36.57-.97.91-1.65.91h-1.04c-.07,0-.12.06-.12.12v.91l-1.77-2.58,1.77-2.58v.91c0,.07.06.12.12.12h3.47c.24,0,.47-.05.67-.15l-1.47,2.33Z" style="fill: #fff;"/>
+          <path d="M75.45,438.14l.52-.9s.02-.06.01-.09c0-.03-.03-.06-.06-.08l-.79-.46,3.12-.25,1.35,2.83-.79-.46c-.06-.03-.14-.01-.17.05l-1.08,1.86-.66,1.14c-.12.21-.19.43-.21.66l-1.28-2.43c-.31-.59-.3-1.3.04-1.88ZM78.27,443.92c-.51,0-.96-.28-1.19-.73h0c-.21-.41-.19-.87.04-1.27l.62-1.08h2.96s0,3.08,0,3.08h-2.43Z" style="fill: #fff;"/>
+          <path d="M80.67,435.98l-2.73-1.44,1.14-2.15c.23-.44.68-.71,1.18-.71,0,0,.02,0,.02,0,.46,0,.86.24,1.11.62l.66,1.06-1.38,2.62ZM82.63,435.77l.77-.49c.06-.04.08-.11.04-.17l-1.14-1.82-.7-1.12c-.13-.2-.29-.37-.48-.49h2.75c.67,0,1.29.35,1.64.91l.55.88c.04.06.11.08.17.04l.77-.49-1.24,2.87-3.13-.13Z" style="fill: #fff;"/>
+        </g>
+      </g>
+      <g>
+        <path d="M78.02,467.02h8.46v8.46h0c-4.67,0-8.46-3.79-8.46-8.46h0Z" style="fill: url(#Degradado_sin_nombre_503-6);"/>
+        <path d="M86.49,467.02h8.46v8.46h0c-4.67,0-8.46-3.79-8.46-8.46h0Z" transform="translate(-380.53 561.97) rotate(-90)" style="fill: url(#Degradado_sin_nombre_503-7);"/>
+        <path d="M86.47,458.6h8.46v8.46h0c-4.67,0-8.46-3.79-8.46-8.46h0Z" transform="translate(181.4 925.66) rotate(-180)" style="fill: url(#Degradado_sin_nombre_503-8);"/>
+        <path d="M78.04,458.6h8.46v8.46h0c-4.67,0-8.46-3.79-8.46-8.46h0Z" transform="translate(545.1 380.56) rotate(90)" style="fill: url(#Degradado_sin_nombre_503-9);"/>
+      </g>
+      <g>
+        <rect x="57.41" y="468.67" width="16.73" height="13.94" style="fill: url(#Degradado_sin_nombre_503-10);"/>
+        <rect x="59.02" y="470.33" width="13.51" height="10.61" style="fill: #666;"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect x="29.65" y="509.75" width="81.46" height="81.46" rx="14.8" ry="14.8" style="fill: #99c5c6;"/>
+    <rect x="29.72" y="536.65" width="81.32" height="27.65" style="fill: gray;"/>
+    <g>
+      <line x1="71.61" y1="550.77" x2="76.19" y2="550.77" style="fill: none; stroke: #fbb03b; stroke-miterlimit: 10; stroke-width: 1.52px;"/>
+      <line x1="86.22" y1="550.77" x2="101.28" y2="550.77" style="fill: none; stroke: #fbb03b; stroke-dasharray: 10.04 10.04; stroke-miterlimit: 10; stroke-width: 1.52px;"/>
+      <line x1="106.3" y1="550.77" x2="110.87" y2="550.77" style="fill: none; stroke: #fbb03b; stroke-miterlimit: 10; stroke-width: 1.52px;"/>
+    </g>
+    <g>
+      <rect x="42.71" y="538.97" width="16.19" height="3.46" style="fill: #fff;"/>
+      <rect x="42.71" y="545.49" width="16.19" height="3.46" style="fill: #fff;"/>
+      <rect x="42.71" y="552.01" width="16.19" height="3.46" style="fill: #fff;"/>
+      <rect x="42.71" y="558.53" width="16.19" height="3.46" style="fill: #fff;"/>
+    </g>
+    <rect x="29.75" y="564.32" width="81.32" height="7.78" style="fill: #ccc;"/>
+    <rect x="29.75" y="528.84" width="81.32" height="7.78" style="fill: #ccc;"/>
+    <rect x="63.1" y="529.35" width="1.33" height="6.43" style="fill: #fc2605;"/>
+    <rect x="67.89" y="536.92" width="1.88" height="27.21" style="fill: #fff;"/>
+    <g>
+      <path d="M74.96,548.3l-2.63-1.18v-.48l2.63-1.19v.51l-2.37,1.02v-.2l2.37,1.02v.5ZM74.35,547.76l-.38-.13v-1.42l.38-.13v1.68Z" style="fill: #fff;"/>
+      <path d="M74.96,545.11h-2.63v-.49h2.22v-1.38h.41v1.87Z" style="fill: #fff;"/>
+      <path d="M74.96,542.57h-2.22v.87h-.41v-2.23h.41v.87h2.22v.49Z" style="fill: #fff;"/>
+      <path d="M75,539.65c0,.21-.03.39-.1.57-.07.17-.16.32-.28.45-.12.13-.26.23-.43.3-.16.07-.34.11-.54.11s-.38-.04-.54-.11c-.16-.07-.31-.17-.43-.3s-.22-.28-.28-.45-.1-.36-.1-.56.03-.39.1-.57.16-.32.28-.45.26-.23.43-.3c.16-.07.34-.11.54-.11s.38.04.54.11c.17.07.31.17.43.3.12.13.21.28.28.45.07.17.1.36.1.56ZM74.57,539.65c0-.13-.02-.26-.07-.37-.04-.11-.11-.21-.19-.29-.08-.08-.18-.15-.29-.19-.11-.05-.24-.07-.37-.07s-.26.02-.37.07-.21.11-.29.19c-.08.08-.15.18-.19.29-.05.11-.07.24-.07.37s.02.26.07.37.11.21.19.29.18.15.29.2.24.07.37.07.26-.02.37-.07c.11-.05.21-.11.3-.19.08-.08.15-.18.19-.29.05-.11.07-.24.07-.37Z" style="fill: #fff;"/>
+    </g>
+  </g>
+  <g>
+    <rect x="29.65" y="218.06" width="81.46" height="81.46" rx="14.8" ry="14.8" style="fill: #99c5c6;"/>
+    <g>
+      <rect x="39.56" y="239.3" width="61.65" height="50.39" style="fill: #e6e6e6;"/>
+      <g>
+        <rect x="50.37" y="282.53" width="4.04" height="2.61" rx=".47" ry=".47" style="fill: url(#Degradado_sin_nombre_265-13);"/>
+        <rect x="50.37" y="275.28" width="4.04" height="2.61" rx=".47" ry=".47" style="fill: url(#Degradado_sin_nombre_265-14);"/>
+        <rect x="47.05" y="276.57" width="11.86" height="7.01" rx=".62" ry=".62" style="fill: url(#Degradado_sin_nombre_265-15);"/>
+        <rect x="57.63" y="282.34" width="4.04" height="2.61" rx=".47" ry=".47" style="fill: url(#Degradado_sin_nombre_265-16);"/>
+        <rect x="57.63" y="275.09" width="4.04" height="2.61" rx=".47" ry=".47" style="fill: url(#Degradado_sin_nombre_265-17);"/>
+        <path d="M63.13,276.23h2.86c.29,0,.53.24.53.53v6.63c0,.29-.24.53-.53.53h-2.86c-1.03,0-1.86-.83-1.86-1.86v-3.96c0-1.03.83-1.86,1.86-1.86Z" transform="translate(127.79 560.15) rotate(180)" style="fill: url(#Degradado_sin_nombre_1344-3);"/>
+        <path d="M62.48,276.68h1.69v6.79h-1.69c-.46,0-.83-.37-.83-.83v-5.12c0-.46.37-.83.83-.83Z" transform="translate(125.81 560.15) rotate(180)" style="fill: url(#Degradado_sin_nombre_503-11);"/>
+        <path d="M58.17,276.68h4.78v6.79h-4.78c-.71,0-1.29-.58-1.29-1.29v-4.2c0-.71.58-1.29,1.29-1.29Z" transform="translate(119.82 560.15) rotate(180)" style="fill: url(#Degradado_sin_nombre_1344-4);"/>
+      </g>
+      <rect x="57.15" y="258.04" width="1.23" height="26.31" transform="translate(328.96 213.42) rotate(90)" style="fill: #fbb03b;"/>
+      <rect x="69.77" y="265.01" width="1.23" height="21.78" style="fill: #fbb03b;"/>
+      <g>
+        <g>
+          <polygon points="95.5 253.71 45.26 253.71 62.13 240.79 78.88 240.79 95.5 253.71" style="fill: url(#Degradado_sin_nombre_503-12);"/>
+          <polygon points="45.26 227.9 95.5 227.9 78.64 240.82 61.89 240.82 45.26 227.9" style="fill: url(#Degradado_sin_nombre_503-13);"/>
+          <polygon points="78.63 240.81 95.49 253.76 95.49 227.92 78.63 240.81" style="fill: url(#Degradado_sin_nombre_503-14);"/>
+          <polygon points="62.24 240.87 45.38 227.92 45.38 253.76 62.24 240.87" style="fill: url(#Degradado_sin_nombre_503-15);"/>
+        </g>
+        <path d="M47.94,253.62h44.88v1.72c0,2.1-1.7,3.8-3.8,3.8h-37.28c-2.1,0-3.8-1.7-3.8-3.8v-1.72h0Z" style="fill: #ffa79e;"/>
+      </g>
+      <g>
+        <rect x="76.05" y="277.97" width="3.58" height="2.31" rx=".41" ry=".41" transform="translate(356.96 201.29) rotate(90)" style="fill: url(#Degradado_sin_nombre_265-18);"/>
+        <rect x="82.46" y="277.97" width="3.58" height="2.31" rx=".41" ry=".41" transform="translate(363.38 194.87) rotate(90)" style="fill: url(#Degradado_sin_nombre_265-19);"/>
+        <path d="M80.3,279.48h2.53c.26,0,.47.21.47.47v5.87c0,.26-.21.47-.47.47h-2.53c-.91,0-1.65-.74-1.65-1.65v-3.51c0-.91.74-1.65,1.65-1.65Z" transform="translate(-201.91 363.85) rotate(-90)" style="fill: #f4c24e;"/>
+        <path d="M80.59,279h1.5v6.01h-1.5c-.41,0-.74-.33-.74-.74v-4.53c0-.41.33-.74.74-.74Z" transform="translate(-201.04 362.98) rotate(-90)" style="fill: url(#Degradado_sin_nombre_254-2);"/>
+        <path d="M79.43,276.35h4.24v6.01h-4.24c-.63,0-1.15-.51-1.15-1.15v-3.72c0-.63.51-1.15,1.15-1.15Z" transform="translate(-198.38 360.33) rotate(-90)" style="fill: #f0a758;"/>
+        <rect x="73.18" y="264.61" width="16.2" height="12.52" rx=".97" ry=".97" transform="translate(352.15 189.58) rotate(90)" style="fill: #dab42e;"/>
+        <rect x="75.62" y="264.27" width="11.52" height="10.8" transform="translate(-188.29 351.05) rotate(-90)" style="fill: #a98e25;"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect x="29.65" y="315.29" width="81.46" height="81.46" rx="14.8" ry="14.8" style="fill: #99c5c6;"/>
+    <rect x="29.72" y="347.13" width="81.32" height="27.65" style="fill: gray;"/>
+    <g>
+      <line x1="71.61" y1="361.24" x2="76.19" y2="361.24" style="fill: none; stroke: #fbb03b; stroke-miterlimit: 10; stroke-width: 1.52px;"/>
+      <line x1="86.22" y1="361.24" x2="101.28" y2="361.24" style="fill: none; stroke: #fbb03b; stroke-dasharray: 10.04 10.04; stroke-miterlimit: 10; stroke-width: 1.52px;"/>
+      <line x1="106.3" y1="361.24" x2="110.87" y2="361.24" style="fill: none; stroke: #fbb03b; stroke-miterlimit: 10; stroke-width: 1.52px;"/>
+    </g>
+    <g>
+      <rect x="42.71" y="349.44" width="16.19" height="3.46" style="fill: #fff;"/>
+      <rect x="42.71" y="355.96" width="16.19" height="3.46" style="fill: #fff;"/>
+      <rect x="42.71" y="362.48" width="16.19" height="3.46" style="fill: #fff;"/>
+      <rect x="42.71" y="369" width="16.19" height="3.46" style="fill: #fff;"/>
+    </g>
+    <rect x="29.75" y="374.79" width="81.32" height="7.78" style="fill: #ccc;"/>
+    <rect x="29.75" y="329.81" width="81.32" height="17.29" style="fill: #4e6539;"/>
+    <rect x="67.89" y="347.39" width="1.88" height="27.21" style="fill: #fff;"/>
+    <g>
+      <polygon points="76.39 343.24 39.64 343.24 51.98 333.79 64.23 333.79 76.39 343.24" style="fill: url(#Degradado_sin_nombre_503-16);"/>
+      <polygon points="39.64 324.36 76.39 324.36 64.06 333.81 51.8 333.81 39.64 324.36" style="fill: url(#Degradado_sin_nombre_503-17);"/>
+      <polygon points="64.05 333.8 76.38 343.27 76.38 324.37 64.05 333.8" style="fill: url(#Degradado_sin_nombre_503-18);"/>
+      <polygon points="52.06 333.84 39.73 324.37 39.73 343.27 52.06 333.84" style="fill: url(#Degradado_sin_nombre_503-19);"/>
+    </g>
+    <g>
+      <polygon points="99.81 343.15 90.51 333.85 99.81 324.56 99.81 343.15" style="fill: url(#Degradado_sin_nombre_139-9);"/>
+      <polygon points="81.22 343.15 90.51 333.85 99.81 343.15 81.22 343.15" style="fill: url(#Degradado_sin_nombre_139-10);"/>
+      <polygon points="81.28 324.56 90.57 333.85 81.28 343.15 81.28 324.56" style="fill: url(#Degradado_sin_nombre_139-11);"/>
+      <polygon points="99.86 324.56 90.57 333.85 81.28 324.56 99.86 324.56" style="fill: url(#Degradado_sin_nombre_139-12);"/>
+    </g>
+  </g>
+</svg>

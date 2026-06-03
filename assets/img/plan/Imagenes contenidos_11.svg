@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768 291.38">
+  <defs>
+    <linearGradient id="Degradado_sin_nombre_4" data-name="Degradado sin nombre 4" x1=".98" y1="145.98" x2="767.02" y2="145.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7e6a9"/>
+      <stop offset="1" stop-color="#e0e691"/>
+    </linearGradient>
+    <filter id="drop-shadow-9" x="29.25" y="19.61" width="709.44" height="166.56" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="7.2"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#414a59" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_6" data-name="Degradado sin nombre 6" x1="384" y1="-3.83" x2="384" y2="115.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7e6a9"/>
+      <stop offset="1" stop-color="#a09f9d"/>
+    </linearGradient>
+    <filter id="drop-shadow-10" x="29.25" y="188.09" width="200.16" height="93.36" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="7.2"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#414a59" flood-opacity=".3"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_5" data-name="Degradado sin nombre 5" x1="130.78" y1="335.77" x2="128.86" y2="193.96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7e6a9"/>
+      <stop offset="1" stop-color="#dda97a"/>
+    </linearGradient>
+    <filter id="drop-shadow-11" x="284.13" y="188.09" width="199.92" height="92.16" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="7.2"/>
+      <feGaussianBlur result="blur-3" stdDeviation="5"/>
+      <feFlood flood-color="#414a59" flood-opacity=".3"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_5-2" data-name="Degradado sin nombre 5" x1="385.42" y1="331.9" x2="383.51" y2="190.45" xlink:href="#Degradado_sin_nombre_5"/>
+    <filter id="drop-shadow-12" x="538.77" y="188.09" width="199.92" height="94.32" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="7.2"/>
+      <feGaussianBlur result="blur-4" stdDeviation="5"/>
+      <feFlood flood-color="#414a59" flood-opacity=".3"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_5-3" data-name="Degradado sin nombre 5" x1="640.04" y1="328.42" x2="638.13" y2="187.22" xlink:href="#Degradado_sin_nombre_5"/>
+  </defs>
+  <rect x=".98" y=".79" width="766.03" height="290.39" rx="23.31" ry="23.31" style="fill: url(#Degradado_sin_nombre_4);"/>
+  <g style="filter: url(#drop-shadow-9);">
+    <rect x="44.36" y="27.57" width="679.28" height="136.18" rx="29.34" ry="29.34" style="fill: url(#Degradado_sin_nombre_6);"/>
+  </g>
+  <text transform="translate(113.57 58.26)" style="font-family: Montserrat-SemiBold, Montserrat; font-size: 15.95px; font-weight: 600;"><tspan x="0" y="0">He</tspan><tspan x="22.84" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="29.46" y="0" style="letter-spacing: -.04em;">r</tspan><tspan x="35.48" y="0">amienta dinámica que pe</tspan><tspan x="246.21" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="252.83" y="0">mi</tspan><tspan x="274.23" y="0" style="letter-spacing: -.02em;">t</tspan><tspan x="280.71" y="0" style="letter-spacing: 0em;">e </tspan><tspan x="295.04" y="0" style="letter-spacing: 0em;">p</tspan><tspan x="305.87" y="0">a</tspan><tspan x="315.55" y="0" style="letter-spacing: .01em;">r</tspan><tspan x="322.49" y="0">ti</tspan><tspan x="333.86" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="343.05" y="0">i</tspan><tspan x="347.66" y="0" style="letter-spacing: 0em;">p</tspan><tspan x="358.49" y="0" style="letter-spacing: 0em;">a</tspan><tspan x="368.19" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="377.38" y="0">ión </tspan><tspan x="407.61" y="0" style="letter-spacing: 0em;">a</tspan><tspan x="417.31" y="0" style="letter-spacing: 0em;">c</tspan><tspan x="426.69" y="0">ti</tspan><tspan x="438.06" y="0" style="letter-spacing: -.02em;">v</tspan><tspan x="447.01" y="0">a del grupo </tspan><tspan x="8.09" y="19.14" style="letter-spacing: 0em;">m</tspan><tspan x="24.9" y="19.14">edian</tspan><tspan x="71" y="19.14" style="letter-spacing: -.02em;">t</tspan><tspan x="77.48" y="19.14">e identific</tspan><tspan x="159.43" y="19.14" style="letter-spacing: 0em;">a</tspan><tspan x="169.12" y="19.14" style="letter-spacing: 0em;">c</tspan><tspan x="178.31" y="19.14">ión de causas y solu</tspan><tspan x="341.76" y="19.14" style="letter-spacing: 0em;">c</tspan><tspan x="350.95" y="19.14">io</tspan><tspan x="365.85" y="19.14" style="letter-spacing: 0em;">n</tspan><tspan x="376.79" y="19.14">es a los p</tspan><tspan x="451.88" y="19.14" style="letter-spacing: 0em;">r</tspan><tspan x="458.42" y="19.14">oblemas.</tspan><tspan x="2.28" y="57.43">He</tspan><tspan x="25.12" y="57.43" style="letter-spacing: 0em;">r</tspan><tspan x="31.74" y="57.43" style="letter-spacing: -.04em;">r</tspan><tspan x="37.76" y="57.43">amientas que o</tspan><tspan x="165.18" y="57.43" style="letter-spacing: 0em;">r</tspan><tspan x="171.73" y="57.43">dena p</tspan><tspan x="228.56" y="57.43" style="letter-spacing: -.01em;">r</tspan><tspan x="235.1" y="57.43">o</tspan><tspan x="245.39" y="57.43" style="letter-spacing: 0em;">c</tspan><tspan x="254.53" y="57.43">edimien</tspan><tspan x="322.28" y="57.43" style="letter-spacing: -.02em;">t</tspan><tspan x="328.76" y="57.43">os y </tspan><tspan x="365.29" y="57.43" style="letter-spacing: 0em;">r</tspan><tspan x="371.83" y="57.43">egist</tspan><tspan x="412.41" y="57.43" style="letter-spacing: -.04em;">r</tspan><tspan x="418.42" y="57.43">a fiel</tspan><tspan x="457.6" y="57.43" style="letter-spacing: 0em;">m</tspan><tspan x="474.42" y="57.43">en</tspan><tspan x="495.27" y="57.43" style="letter-spacing: -.02em;">t</tspan><tspan x="501.74" y="57.43">e las </tspan><tspan x="131.34" y="76.57" style="letter-spacing: -.01em;">e</tspan><tspan x="141.02" y="76.57">xp</tspan><tspan x="161.11" y="76.57" style="letter-spacing: -.01em;">r</tspan><tspan x="167.65" y="76.57">esio</tspan><tspan x="200.69" y="76.57" style="letter-spacing: 0em;">n</tspan><tspan x="211.63" y="76.57">es </tspan><tspan x="234.17" y="76.57" style="letter-spacing: -.01em;">v</tspan><tspan x="243.15" y="76.57">e</tspan><tspan x="253.07" y="76.57" style="letter-spacing: .01em;">r</tspan><tspan x="260.01" y="76.57">tidas por el grup</tspan><tspan x="395.49" y="76.57" style="letter-spacing: -.01em;">o</tspan><tspan x="405.62" y="76.57">.</tspan></text>
+  <g>
+    <g style="filter: url(#drop-shadow-10);">
+      <rect x="44.41" y="196.05" width="169.81" height="63.19" rx="9.11" ry="9.11" style="fill: url(#Degradado_sin_nombre_5);"/>
+    </g>
+    <g style="filter: url(#drop-shadow-11);">
+      <rect x="299.14" y="196.05" width="169.72" height="61.84" rx="18.66" ry="18.66" style="fill: url(#Degradado_sin_nombre_5-2);"/>
+    </g>
+    <g style="filter: url(#drop-shadow-12);">
+      <rect x="553.78" y="196.05" width="169.81" height="64.04" rx="32.02" ry="32.02" style="fill: url(#Degradado_sin_nombre_5-3);"/>
+    </g>
+  </g>
+  <text transform="translate(613.45 224.39)" style="font-family: Montserrat-SemiBold, Montserrat; font-size: 13.44px; font-weight: 600;"><tspan x="0" y="0">Objeti</tspan><tspan x="42.45" y="0" style="letter-spacing: -.02em;">v</tspan><tspan x="50.02" y="0">o</tspan><tspan x="-9.75" y="16.13">ME</tspan><tspan x="12.1" y="16.13" style="letter-spacing: -.03em;">T</tspan><tspan x="19.72" y="16.13">A</tspan><tspan x="29.79" y="16.13" style="letter-spacing: 0em;">P</tspan><tspan x="39.41" y="16.13" style="letter-spacing: 0em;">L</tspan><tspan x="47.48" y="16.13">AN</tspan></text>
+  <g>
+    <rect x="505.12" y="190.24" width="15.48" height="50.32" transform="translate(297.46 728.26) rotate(-90)" style="fill: #498974;"/>
+    <rect x="505.12" y="210.88" width="15.48" height="50.32" transform="translate(276.81 748.9) rotate(-90)" style="fill: #498974;"/>
+  </g>
+  <text transform="translate(83.16 223.1)" style="font-family: Montserrat-SemiBold, Montserrat; font-size: 13.44px; font-weight: 600;"><tspan x="0" y="0">80% </tspan><tspan x="33.08" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="38.59" y="0">egist</tspan><tspan x="72.79" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="78.3" y="0">o</tspan><tspan x="-1.19" y="16.13">de opinio</tspan><tspan x="63.65" y="16.13" style="letter-spacing: 0em;">n</tspan><tspan x="72.87" y="16.13">es</tspan></text>
+  <text transform="translate(340.11 223.1)" style="font-family: Montserrat-SemiBold, Montserrat; font-size: 13.44px; font-weight: 600;"><tspan x="0" y="0">20% diálogo </tspan><tspan x="10.81" y="16.13" style="letter-spacing: 0em;">c</tspan><tspan x="18.52" y="16.13">ole</tspan><tspan x="39.43" y="16.13" style="letter-spacing: 0em;">c</tspan><tspan x="47.33" y="16.13">ti</tspan><tspan x="56.92" y="16.13" style="letter-spacing: -.02em;">v</tspan><tspan x="64.48" y="16.13">o</tspan></text>
+  <g>
+    <rect x="249.65" y="200.56" width="15.48" height="50.32" style="fill: #498974;"/>
+    <rect x="249.65" y="200.56" width="15.48" height="50.32" transform="translate(31.67 483.12) rotate(-90)" style="fill: #498974;"/>
+  </g>
+</svg>
