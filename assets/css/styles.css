@@ -438,6 +438,13 @@ body::before {
   color: #4b3500;
 }
 
+.tool-content h3, .plan-content h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-top: 1.5rem;
+    
+}
+
 .tool-content p,.tool-content li, 
 .plan-content p, .plan-content li {
   font-size: 1.05rem;
@@ -540,12 +547,7 @@ body::before {
   margin: 0;
 }
 
-.plan-content h3 {
-    font-size: 1.25rem;
-    font-weight: 700;
-    margin-top: 1.5rem;
-    
-}
+
 .stage-title{
   color: #554000;
   font-family: Montserrat;
