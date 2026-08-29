@@ -3,54 +3,92 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <title>Caja de Herramientas de la Planificación Municipal</title>
 
   <!-- Bootstrap 5.3 -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+    rel="stylesheet">
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="../assets/css/styles.css">
+
   <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet">
 </head>
 
-<body>
+<body class="tools-body">
 
   <!-- HEADER -->
   <div data-include="../components/header-tools.html"></div>
-  
 
-   <main class="container-fluid inner-page">
+  <!-- MOBILE MENU -->
+  <div data-include="../components/mobile-menu.html"></div>
+
+  <!-- MAIN -->
+  <main class="container-fluid inner-page tools-page">
 
     <!-- TOOLS TABS -->
-    <div data-include="../components/tools-tabs.html"></div> 
+    <div data-include="../components/tools-tabs.html"></div>
 
     <section class="m-top-xl"></section>
 
-    <!-- Introducción -->
-    <section class="container inner-content-card p-5 mb-5" style="max-width: 768px;">
+    <!-- INTRODUCCIÓN -->
+    <section
+      class="container inner-content-card tools-intro-card p-5 mb-5"
+      style="max-width: 768px;">
+
       <div class="row g-5 align-items-start">
-        <div class="col-12 tool-content">
-          <h2 class="text-center sub-title">Herramientas</h2>
-          <p>En esta sección se ofrece un conjunto práctico y accesible para que los equipos municipales puedan organizar ideas, definir prioridades y tomar decisiones informadas. Aquí encontrarás recursos diseñados para facilitar una planificación estratégica efectiva, que fortalece la gestión pública, impulsa el desarrollo sostenible y contribuye a mejorar la calidad de vida en las comunidades.</p>
-          <p>Explore esta lista y aproveche cada herramienta para transformar desafíos en oportunidades.</p>
+
+        <div class="col-12 tool-content tools-intro-content">
+
+          <h1 class="text-center sub-title">
+            Herramientas
+          </h1>
+
+          <p>
+            En esta sección se ofrece un conjunto práctico y accesible para que
+            los equipos municipales puedan organizar ideas, definir prioridades
+            y tomar decisiones informadas. Aquí encontrarás recursos diseñados
+            para facilitar una planificación estratégica efectiva, que fortalece
+            la gestión pública, impulsa el desarrollo sostenible y contribuye a
+            mejorar la calidad de vida en las comunidades.
+          </p>
+
+          <p>
+            Explore esta lista y aproveche cada herramienta para transformar
+            desafíos en oportunidades.
+          </p>
+
         </div>
-      
+
       </div>
+
     </section>
-    <section class="m-top-xl"></section>
-    
-    <!-- Herramientas -->
-    <div data-include="../components/tools-buttons.html"></div>
+
+    <section class="m-top-xl tools-list-separator"></section>
+
+    <!-- HERRAMIENTAS -->
+    <div
+      class="tools-list"
+      data-include="../components/tools-buttons.html">
+    </div>
 
   </main>
+
   <!-- FOOTER -->
   <div data-include="../components/footer.html"></div>
 
   <!-- Bootstrap 5.3 Bundle -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js">
+  </script>
 
   <!-- Custom JS -->
   <script src="../assets/js/app.js"></script>
+
 </body>
 </html>
