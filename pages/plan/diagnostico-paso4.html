@@ -19,8 +19,11 @@
   <!-- HEADER -->
   <div data-include="../../components/header-tools.html"></div>
 
+  <!-- MOBILE MENU -->
+  <div data-include="../../components/mobile-menu.html"></div>
+
   <!-- MAIN -->
-  <main class="container-fluid inner-page tool-detail-page">
+  <main class="container-fluid inner-page tool-detail-page plan-step-page">
 
     <!-- TOOLS TABS -->
     <div data-include="../../components/plan-tabs.html"></div> 
@@ -28,10 +31,10 @@
     <section class="m-top-xl"></section>
 
     <!-- CARD PRINCIPAL -->
-    <section class="container inner-content-card p-5 mb-3">
+    <section class="container inner-content-card plan-step-card p-5 mb-3">
       <div class="row g-3 align-items-start m-0">
 
-        <div class="col-12 d-flex align-items-start gap-3 mb-3">
+        <div class="col-12 d-flex align-items-start gap-3 mb-3 plan-step-stage">
 
             <img src="../../assets/img/icons/icon_etapa2.png"
                 class="stage-icon"
@@ -46,7 +49,7 @@
 
         </div>
         <!-- HEADER -->
-        <div class="col-12 plan-header mb-4">
+        <div class="col-12 plan-header plan-step-header mb-4">
 
           <div class="plan-title-group">
 
@@ -61,7 +64,7 @@
         </div>
 
         <!-- CONTENIDO -->
-        <div class="col-12 tool-content">
+        <div class="col-12 tool-content plan-step-content">
 
           <p><strong>El diagnóstico institucional</strong> es un paso esencial para entender la situación vigente del municipio y su capacidad de gestión. Permite identificar capacidades, limitaciones, oportunidades y amenazas, y es la base para planificar acciones efectivas en el plan de desarrollo municipal.</p>
           <h2>¿Por qué es importante el diagnóstico? </h2>
@@ -152,7 +155,9 @@
 
                   <!-- Table -->
                   <p class="small"><strong>Cuadro 7</strong>. Aspectos claves para el análisis situacional municipal</p> 
-                  <table class="table table-light table-bordered">
+                  <div class="table-responsive plan-step-table">
+ 
+                    <table class="table table-light table-bordered">
                   
                       <thead>
                           <tr>
@@ -234,6 +239,8 @@
                           </tr>
                       </tbody>
                   </table>
+ 
+                  </div>
 
                   <p class="small">
                       <strong>Fuente:</strong> Elaboración propia, a partir de elementos del proceso diagnóstico
@@ -259,7 +266,9 @@
 
                   <!-- Table -->
                   <p class="small"><strong>Cuadro 8</strong>. Ejemplo de instrumento para recolectar información para el análisis situacional.</p> 
-                  <table class="table table-light table-bordered">
+                  <div class="table-responsive plan-step-table">
+ 
+                    <table class="table table-light table-bordered">
                         <tbody>
                             <tr>
                                 <td colspan="7">
@@ -338,6 +347,8 @@
                             </tr>
                         </tbody>
                     </table>
+ 
+                  </div>
 
                     <p class="small mt-2">
                         <strong>Fuente:</strong> Tomado del Módulo 2 del Manual para la Planificación del Desarrollo Humano Local – Tercera Unidad “El Plan Estratégico Municipal” (2015), página 114.
@@ -650,7 +661,10 @@
                   <!-- Tablas-->
                   <p class="small"><strong>Cuadro 9</strong>. Análisis PEST desde la perspectiva político-legal.</p>
 
-                  <table class="table table-light table-bordered">
+                  <div class="table-responsive plan-step-table">
+
+
+                    <table class="table table-light table-bordered">
                       <thead>
                           <tr>
                               <th style="width:20%;">Tema</th>
@@ -722,6 +736,9 @@
                       </tbody>
                   </table>
 
+
+                  </div>
+
                   <p class="small">
                       <strong>Fuente</strong>: Tomado del análisis PEST, realizado por el área de DHCS como parte de la metodología de trabajo para la elaboración de los Lineamientos Estratégicos de Desarrollo elaborada por la Oficina de Planificación Institucional. Municipalidad de Mora (2023).
                   </p>
@@ -781,7 +798,10 @@
                     <!-- Tablas-->
                     <p class="small"><strong>Cuadro 10</strong>. Matriz FODA y estrategias resumen sobre área ordenamiento territorial.</p>
 
-                    <table class="table table-light table-bordered">
+                    <div class="table-responsive plan-step-table">
+
+
+                      <table class="table table-light table-bordered">
                         <tbody>
 
                             <!-- Encabezado superior -->
@@ -920,6 +940,9 @@
                         </tbody>
                     </table>
 
+
+                    </div>
+
                     <p class="small">
                         <strong>Fuente</strong>: Tomado de los Lineamientos Estratégicos de Desarrollo de la Municipalidad de Mora. Aporte del área DDCU conforme metodología de trabajo definida para elaboración de los LED, 2023-2032.
                     </p>
@@ -929,7 +952,10 @@
                     <!-- Tablas-->
                     <p class="small"><strong>Cuadro 11</strong>. Síntesis de problemas priorizados.</p>
 
-                    <table class="table table-light table-bordered">
+                    <div class="table-responsive plan-step-table">
+
+
+                      <table class="table table-light table-bordered">
                         <thead>
                             <tr>
                                 <th>Eje temático</th>
@@ -995,6 +1021,9 @@
                         </tbody>
                     </table>
 
+
+                    </div>
+
                     <p class="small"><strong>Fuente</strong>: Jiménez, A. (2016).</p>
 
 
@@ -1008,7 +1037,7 @@
         </div>
         
         <!-- Navegación -->
-        <div class="col-12">
+        <div class="col-12 plan-step-navigation">
             <div class="stage-navigation mt-5">
 
                 <a href="preparacion-paso3.html"
