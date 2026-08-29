@@ -15,6 +15,107 @@
   --margin-top-lg:80px;
   --margin-top-md:40px;
   --margin-top-sm: 20px;
+
+  /* ==========================================
+     TYPOGRAPHY - DESKTOP
+     Valores actuales del CSS original
+     ========================================== */
+
+  /* 36px */
+  --font-size-d-display: 2.25rem;
+
+  /* 32px */
+  --font-size-d-xxl: 2rem;
+
+  /* 24px */
+  --font-size-d-xl: 1.5rem;
+
+  /* 20px */
+  --font-size-d-lg: 1.25rem;
+
+  /* 19.2px */
+  --font-size-d-subtitle: 1.2rem;
+
+  /* 18px */
+  --font-size-d-md-lg: 1.125rem;
+
+  /* 16.8px */
+  --font-size-d-body-lg: 1.05rem;
+
+  /* 16px */
+  --font-size-d-md: 1rem;
+
+  /* 14px */
+  --font-size-d-sm: 0.875rem;
+
+  /* 13px */
+  --font-size-d-xs: 0.8125rem;
+
+  /* 12px */
+  --font-size-d-xxs: 0.75rem;
+
+  /* 11px */
+  --font-size-d-micro: 0.6875rem;
+
+
+  /* ==========================================
+     TYPOGRAPHY - MOBILE
+     Escala paralela a desktop.
+     Los valores conservan los tamaños móviles actuales.
+     ========================================== */
+
+    /* 24px */
+    --font-size-m-display: 1.5rem;
+
+    /* 21px */
+    --font-size-m-xxl: 1.3125rem;
+
+    /* 19px */
+    --font-size-m-xl: 1.1875rem;
+
+    /* 18px */
+    --font-size-m-lg: 1.125rem;
+
+    /* 17px */
+    --font-size-m-subtitle: 1.0625rem;
+
+    /* 16.5px */
+    --font-size-m-md-lg: 1.03125rem;
+
+    /* 16px */
+    --font-size-m-body-lg: 1rem;
+
+    /* 15px */
+    --font-size-m-md: 0.9375rem;
+
+    /* 14px */
+    --font-size-m-sm: 0.875rem;
+
+    /* 13px */
+    --font-size-m-xs: 0.8125rem;
+
+    /* 12px */
+    --font-size-m-xxs: 0.75rem;
+
+    /* 11px */
+    --font-size-m-micro: 0.6875rem;
+
+
+  /* ==========================================
+     FONT WEIGHTS
+     ========================================== */
+
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* ==========================================
+     ICON
+     ========================================== */
+  --stage-icon-size-m: 34px;
+
+
 }
 
 html,
@@ -121,8 +222,8 @@ body::before {
   background-color: #536532;
   color: #f5f1d8;
   padding: 20px 1rem;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: var(--font-size-d-md-lg);
+  font-weight: var(--font-weight-semibold);
   letter-spacing: 0.2px;
 }
 
@@ -270,20 +371,20 @@ body::before {
 
 .inner-content-card h1 {
   color: #4b3500;
-  font-size: 2rem;
-  font-weight: 700;
+  font-size: var(--font-size-d-xxl);
+  font-weight: var(--font-weight-bold);
   margin-bottom: .25rem;
 }
 
 .inner-content-card h2 {
   color: #000;
-  font-size: 1.2rem;
-  font-weight: 500;
+  font-size: var(--font-size-d-subtitle);
+  font-weight: var(--font-weight-medium);
   margin-bottom: 2rem;
 }
 
 .inner-content-card p {
-  font-size: 1.05rem;
+  font-size: var(--font-size-d-body-lg);
   line-height: 1.6;
 }
 
@@ -293,12 +394,12 @@ body::before {
   box-shadow: 0 8.729px 17.457px 0 rgba(0, 0, 0, 0.30);
   padding: 16px 24px;
   margin-bottom: 20px;
-  font-size: 1.05rem;
+  font-size: var(--font-size-d-body-lg);
   line-height: 1.25;
 }
 
 .step-card strong {
-  font-weight: 700;
+  font-weight: var(--font-weight-bold);
 }
 
 .menu-btn-home {
@@ -376,9 +477,9 @@ body::before {
 .tool-title-group h1, .case-title-group h1, .plan-title-group h1 {
   color: #554000;
   font-family: Montserrat;
-  font-size: 36px;
+  font-size: var(--font-size-d-display);
   font-style: normal;
-  font-weight: 600;
+  font-weight: var(--font-weight-semibold);
   line-height: 36px; /* 70% */
   letter-spacing: -0.449px;
 }
@@ -386,10 +487,10 @@ body::before {
 .tool-back-link, .case-back-link, .plan-back-link {
   color: #000;
   font-family: Montserrat;
-  font-size: 20px;
+  font-size: var(--font-size-d-lg);
   font-style: normal;
-  font-weight: 500;
-  line-height: 20px; 
+  font-weight: var(--font-weight-medium);
+  line-height: 1.25rem; 
   letter-spacing: -0.449px;
   text-decoration: auto;
   width: 130px;
@@ -434,21 +535,21 @@ body::before {
 .tool-content h2, .plan-content h2 {
   margin-top: 2rem;
   margin-bottom: .5rem;
-  font-size: 1.5rem;
-  font-weight: 700;
+  font-size: var(--font-size-d-xl);
+  font-weight: var(--font-weight-bold);
   color: #4b3500;
 }
 
 .tool-content h3, .plan-content h3 {
-    font-size: 1.25rem;
-    font-weight: 700;
+    font-size: var(--font-size-d-lg);
+    font-weight: var(--font-weight-bold);
     margin-top: 1.5rem;
     
 }
 
 .tool-content p,.tool-content li, 
 .plan-content p, .plan-content li {
-  font-size: 1.05rem;
+  font-size: var(--font-size-d-body-lg);
   line-height: 1.7;
 }
 /*
@@ -497,9 +598,9 @@ body::before {
 .case-body h3 {
   color: #554000;
   font-family: Montserrat;
-  font-size: 20px;
+  font-size: var(--font-size-d-lg);
   font-style: normal;
-  font-weight: 600;
+  font-weight: var(--font-weight-semibold);
   line-height: 28px; /* 140% */
   letter-spacing: -0.449px;
 }
@@ -507,9 +608,9 @@ body::before {
 .case-body p {
   color: #000;
   font-family: Montserrat;
-  font-size: 16px;
+  font-size: var(--font-size-d-md);
   font-style: normal;
-  font-weight: 400;
+  font-weight: var(--font-weight-regular);
   line-height: normal;
 }
 
@@ -544,7 +645,7 @@ body::before {
 }
 .plan-title-group h2 {
   color: #000;
-  font-size: 32px;
+  font-size: var(--font-size-d-xxl);
   margin: 0;
 }
 
@@ -552,17 +653,17 @@ body::before {
 .stage-title{
   color: #554000;
   font-family: Montserrat;
-  font-size: 20px;
+  font-size: var(--font-size-d-lg);
   font-style: normal;
-  font-weight: 600;
+  font-weight: var(--font-weight-semibold);
   line-height: normal;
 }
 .stage-subtitle{
   color: #000;
   font-family: Montserrat;
-  font-size: 16px;
+  font-size: var(--font-size-d-md);
   font-style: normal;
-  font-weight: 500;
+  font-weight: var(--font-weight-medium);
   line-height: 28px;
   letter-spacing: -0.449px;
 }
@@ -582,7 +683,7 @@ body::before {
   text-decoration: none;
   padding: 14px 34px;
   border-radius: 8px;
-  font-weight: 600;
+  font-weight: var(--font-weight-semibold);
   box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.30);
   transition: .2s ease;
 }
@@ -592,9 +693,9 @@ body::before {
 }
 
 .stage-finish-text {
-  font-size: 32px;
+  font-size: var(--font-size-d-xxl);
   font-family: Montserrat;
-  font-weight: 600;
+  font-weight: var(--font-weight-semibold);
   color: #554000;
 }
 
@@ -652,6 +753,129 @@ body::before {
     justify-items:center;
 }
 
+/* ==========================================
+   PLAN - STAGES BASE
+   ========================================== */
+
+/*
+ * Las cabeceras del acordeón existen únicamente
+ * para la versión móvil.
+ */
+.stage-mobile-header {
+    display: none;
+}
+
+/* ==========================================
+   INNER MOBILE TITLE - SECCIONES
+   ========================================== */
+
+/* Por defecto solamente mostramos Plan */
+.inner-mobile-title-tools,
+.inner-mobile-title-cases {
+    display: none;
+}
+
+
+@media (max-width: 767.98px) {
+
+    /* ======================================
+       PLAN DE DESARROLLO
+       Celeste
+       ====================================== */
+
+    .inner-mobile-title {
+        background: var(--color-blue);
+    }
+
+    .inner-mobile-title-plan {
+        display: inline;
+    }
+
+
+    /* ======================================
+       HERRAMIENTAS
+       Anaranjado
+       ====================================== */
+
+    .tools-body .inner-mobile-title {
+        background: var(--color-yellow);
+    }
+
+    .tools-body .inner-mobile-title-plan,
+    .tools-body .inner-mobile-title-cases {
+        display: none;
+    }
+
+    .tools-body .inner-mobile-title-tools {
+        display: inline;
+    }
+
+
+    /* ======================================
+       CASOS
+       Verde
+       ====================================== */
+
+    .cases-body .inner-mobile-title {
+        background: var(--color-green);
+    }
+
+    .cases-body .inner-mobile-title-plan,
+    .cases-body .inner-mobile-title-tools {
+        display: none;
+    }
+
+    .cases-body .inner-mobile-title-cases {
+        display: inline;
+    }
+
+}
+
+
+/*
+ * En escritorio las etapas NO son un acordeón.
+ * Todo el contenido permanece siempre visible.
+ */
+@media (min-width: 768px) {
+
+    .stage-mobile-header {
+        display: none !important;
+    }
+
+    .stage-collapse,
+    .stage-collapse.collapse,
+    .stage-collapse.collapsing,
+    .stage-collapse.collapse:not(.show),
+    .stage-collapse.collapse.show {
+        display: block !important;
+        height: auto !important;
+        visibility: visible !important;
+    }
+
+    /*
+     * Recuperamos exactamente el comportamiento
+     * de las tarjetas anteriores.
+     */
+    .stage-section {
+        padding: 0;
+    }
+
+    .stage-content {
+        display: block;
+    }
+
+}
+
+
+/* ==========================================
+   INNER HEADER - MOBILE
+   ========================================== */
+
+.header-left-mobile,
+.inner-mobile-title {
+    display: none;
+}
+
 /* Desktop */
 @media (min-width:1200px){
 
@@ -679,25 +903,1991 @@ body::before {
 
 }
 
-/* Responsive */
-@media (max-width: 768px) {
-  .top-banner {
-    height: 120px;
+
+
+/* ==========================================
+   HOME - MOBILE
+   ========================================== */
+
+@media (max-width: 767.98px) {
+
+    /* ======================================
+       HEADER HOME
+       ====================================== */
+
+    .top-banner:not(.height-banner-inner-page) {
+        width: 100%;
+        height: 100px;
+
+        background-color: #4e6539;
+        background-image: url("../img/menu/banner_superior.png");
+        background-repeat: repeat-x;
+        background-position: top left;
+        background-size: auto 100%;
+    }
+
+    .top-banner:not(.height-banner-inner-page) > div {
+        justify-content: center !important;
+        align-items: center !important;
+        padding: 0 !important;
+    }
+
+    .top-banner:not(.height-banner-inner-page) > div > div {
+        gap: 20px !important;
+    }
+
+    .top-banner:not(.height-banner-inner-page) .logo-header {
+        max-height: 58px;
+        width: auto;
+    }
+
+
+    /* ======================================
+       CONTENEDOR PRINCIPAL
+       ====================================== */
+
+    .main-menu {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+
+        width: 100%;
+        min-height: auto;
+
+        padding: 0;
+
+        background: #f0a758;
+    }
+
+
+    /* ======================================
+       PANEL NARANJA
+       ====================================== */
+
+    .menu-panel {
+        width: 100%;
+        max-width: 400px;
+
+        margin: 0 auto;
+
+        padding: 22px 18px 24px;
+
+        background: #f0a758;
+
+        border-radius: 0;
+
+        overflow: visible;
+    }
+
+
+    /* ======================================
+       GRID
+       ====================================== */
+
+    .menu-grid {
+        display: flex;
+        flex-direction: column;
+
+        gap: 16px;
+    }
+
+    .menu-panel .row {
+        align-items: stretch;
+
+        --bs-gutter-x: 14px;
+        --bs-gutter-y: 0;
+    }
+
+
+    /* ======================================
+       BOTONES
+       ====================================== */
+
+    .menu-btn {
+        display: block;
+
+        width: 100%;
+        max-width: none;
+
+        line-height: 0;
+
+        transition:
+            transform .2s ease,
+            filter .2s ease;
+    }
+
+    .menu-btn picture {
+        display: block;
+        width: 100%;
+    }
+
+    .menu-btn img {
+        display: block;
+
+        width: 100%;
+        height: auto;
+
+        border-radius: 18px;
+
+        box-shadow:
+            0 8px 14px rgba(0, 0, 0, .28);
+    }
+
+
+    /* HOVER */
+    .menu-btn:hover {
+        transform: translateY(-4px);
+        filter: brightness(1.05);
+    }
+
+
+    /* TOUCH */
+    .menu-btn:active {
+        transform: translateY(-1px) scale(.98);
+        filter: brightness(.95);
+    }
+
+
+    /* ======================================
+       DECORATIVOS
+       ====================================== */
+
+    .menu-decor {
+        display: block;
+
+        width: 100%;
+        height: auto;
+    }
+
+
+    /* ======================================
+       FOOTER HOME
+       ====================================== */
+
+    .site-footer {
+        width: 100%;
+
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+
+        padding: 20px 10px;
+
+        background: #4e6539;
+
+        font-size: var(--font-size-d-md-lg);
+        font-weight: var(--font-weight-medium);
+
+        text-align: center;
+    }
+
+    .footer-separator {
+        margin: 0 14px;
+    }
+
+}
+
+/* ==========================================
+   INNER PAGES - MOBILE
+   ========================================== */
+
+@media (max-width: 767.98px) {
+
+    /* ======================================
+   HEADER INTERIOR
+   Header verde + barra de título = 100px
+   igual que el HOME
+   ====================================== */
+    .top-banner.height-banner-inner-page {
+        width: 100%;
+        height: 100px;
+        min-height: 100px;
+        display: block;
+    }
+
+    .top-banner.height-banner-inner-page .header-content {
+        height: 68px !important;
+
+        padding: 8px 14px !important;
+
+        display: flex;
+        justify-content: space-between !important;
+        align-items: center !important;
+    }
+
+
+    /* BOTÓN DE INICIO DE ESCRITORIO */
+    .header-left-desktop {
+        display: none;
+    }
+
+
+    /* MENÚ MÓVIL */
+    .header-left-mobile {
+        display: block;
+    }
+
+    .mobile-menu-toggle {
+      display: block;
+
+      padding: 0;
+      margin: 0;
+
+      border: 0;
+      background: transparent;
+
+      line-height: 0;
+
+      cursor: pointer;
   }
 
-  .logo-header {
-    max-height: 48px;
+  .mobile-menu-image {
+      display: block;
+
+      max-height: 45px;
+      width: auto;
   }
 
-  .main-menu {
-    min-height: calc(100vh - 120px);
-    padding: 0 1rem 2rem;
-  }
+    /* LOGOS */
+    .top-banner.height-banner-inner-page .header-right {
+        display: flex;
 
-  .menu-panel {
-    margin-top: -45px;
-    padding: 22px;
-    border-radius: 18px;
-    max-width: 430px;
-  }
+        gap: 12px !important;
+        align-items: center;
+    }
+
+    .top-banner.height-banner-inner-page .header-right .logo-header {
+        max-height: 45px;
+        width: auto;
+    }
+
+
+    /* FRANJA DEL TÍTULO */
+    .inner-mobile-title {
+        display: flex;
+
+        width: 100%;
+        height: 32px;
+
+        justify-content: center;
+        align-items: center;
+
+        background: var(--color-blue);
+
+        color: #554000;
+
+        font-size: var(--font-size-m-sm);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1;
+
+        text-align: center;
+    }
+
+
+    /* TABS DE ESCRITORIO */
+    .desktop-inner-tabs,
+    .inner-menu-tabs {
+        display: none;
+    }
+
+    .inner-band {
+        display: none;
+    }
+
+
+    /* CONTENIDO */
+    .m-top-xl {
+        margin-top: 16px;
+    }
+
+    /* ICON */
+    .stage-icon,
+    .stage-mobile-icon {
+        width: var(--stage-icon-size-m);
+        height: var(--stage-icon-size-m);
+        flex: 0 0 var(--stage-icon-size-m);
+        object-fit: contain;
+    }
+
+}
+
+/* ==========================================
+   PLAN DESARROLLO - MOBILE ACCORDION
+   ========================================== */
+
+@media (max-width: 767.98px) {
+
+    /* ======================================
+       ÁREA DEL CONTENIDO
+       ====================================== */
+
+    .inner-page {
+        min-height: calc(100vh - 151px);
+        padding: 12px 12px 12px;
+    }
+
+    /*
+     * Las tabs de escritorio ya están ocultas,
+     * por lo tanto no necesitamos este espacio.
+     */
+    .inner-page > .m-top-xl {
+        display: none;
+    }
+
+
+    /* ======================================
+       TARJETA DE ETAPA
+       ====================================== */
+
+    .stage-section {
+        width: 100%;
+        /*max-width: 380px;*/
+
+        padding: 0 !important;
+
+        margin-left: auto !important;
+        margin-right: auto !important;
+        margin-bottom: 12px !important;
+
+        background: #fff;
+
+        border-radius: 12px;
+
+        overflow: hidden;
+
+        box-shadow:
+            0 5px 10px rgba(0, 0, 0, .18);
+    }
+
+
+    /* ======================================
+       CABECERA DEL ACORDEÓN
+       ====================================== */
+
+    .stage-mobile-header {
+        display: flex;
+
+        width: 100%;
+
+        align-items: center;
+        justify-content: space-between;
+
+        padding: 8px 10px;
+
+        border: 0;
+
+        background: #fff;
+
+        color: #554000;
+
+        text-align: left;
+
+        font-family: 'Montserrat', sans-serif;
+
+        cursor: pointer;
+    }
+
+
+    /* Lado izquierdo */
+    .stage-mobile-info {
+        display: flex;
+
+        align-items: center;
+
+        min-width: 0;
+
+        gap: 8px;
+    }
+
+
+    /*
+     * Contenedor del título y subtítulo
+     */
+    .stage-mobile-info > span {
+        display: flex;
+
+        flex-direction: column;
+
+        min-width: 0;
+    }
+
+
+    /* Icono */
+    .stage-mobile-icon {
+        display: block;
+    }
+
+
+    /* Título */
+    .stage-mobile-info strong {
+        display: block;
+
+        color: #554000;
+
+        font-size: var(--font-size-m-lg);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2;
+    }
+
+
+    /* Subtítulo */
+    .stage-mobile-info small {
+        display: block;
+
+        margin-top: 2px;
+
+        color: #000;
+
+        font-size: var(--font-size-m-md) !important;
+        font-weight: var(--font-weight-medium);
+        line-height: 1.25;
+    }
+
+    /* ======================================
+       INDICADOR CIRCULAR
+       ====================================== */
+
+    .stage-mobile-arrow {
+        position: relative;
+
+        display: block;
+
+        width: 16px;
+        height: 16px;
+
+        flex: 0 0 16px;
+
+        margin-left: 6px;
+
+        border: 1px solid #554000;
+        border-radius: 50%;
+    }
+
+
+    /*
+     * Flecha hecha con bordes.
+     */
+    .stage-mobile-arrow::before {
+        content: "";
+
+        position: absolute;
+
+        width: 5px;
+        height: 5px;
+
+        top: 4px;
+        left: 5px;
+
+        border-right: 1px solid #554000;
+        border-bottom: 1px solid #554000;
+
+        transform: rotate(45deg);
+
+        transition: transform .2s ease;
+    }
+
+
+    /*
+     * Cuando está abierta apuntamos hacia arriba.
+     */
+    .stage-mobile-header:not(.collapsed)
+    .stage-mobile-arrow::before {
+        top: 6px;
+
+        transform: rotate(225deg);
+    }
+
+
+    /* ======================================
+       COLLAPSE
+       ====================================== */
+
+    /*
+     * En móvil Bootstrap vuelve a controlar
+     * qué etapa está abierta.
+     */
+    .stage-collapse.collapse:not(.show) {
+        display: none !important;
+    }
+
+    .stage-collapse.collapse.show {
+        display: block !important;
+    }
+
+    .stage-collapse.collapsing {
+        display: block !important;
+    }
+
+
+    /* ======================================
+       CONTENIDO DE ETAPA ABIERTA
+       ====================================== */
+
+    .stage-content {
+        padding: 2px 10px 12px !important;
+    }
+
+    .stage-content > .row {
+        --bs-gutter-x: 0;
+        --bs-gutter-y: 8px;
+    }
+
+
+    /*
+     * El título e icono grandes son elementos
+     * de desktop. En móvil ya están representados
+     * en la cabecera del acordeón.
+     */
+    .stage-description {
+        display: block !important;
+    }
+
+    .stage-description > .inner-icon {
+        display: none;
+    }
+
+    .stage-description h1,
+    .stage-description h2 {
+        display: none;
+    }
+
+
+    /* ======================================
+      TEXTO
+      ====================================== */
+
+    .stage-content p,
+    .stage-content li {
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+    .stage-content p {
+        margin-bottom: 14px;
+    }
+
+    .stage-content ul,
+    .stage-content ol {
+        padding-left: 22px;
+
+        margin-top: 0;
+        margin-bottom: 14px;
+    }
+
+    .stage-content li {
+        margin-bottom: 7px;
+    }
+
+    .stage-content li > ul,
+    .stage-content li > ol {
+        margin-top: 7px;
+        margin-bottom: 7px;
+    }
+
+
+    /* ======================================
+      PASOS
+      ====================================== */
+
+    .stage-steps {
+        margin-top: 4px;
+    }
+
+    .stage-steps .plan-link {
+        line-height: normal;
+    }
+
+    .stage-steps .step-card {
+        padding: 9px 10px;
+        margin-bottom: 8px;
+
+        border-radius: 6px;
+
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.25;
+
+        box-shadow:
+            0 3px 6px rgba(0, 0, 0, .22);
+    }
+
+    .stage-steps .step-card strong {
+        font-size: var(--font-size-m-body-lg);
+        font-weight: var(--font-weight-bold);
+    }
+
+    .stage-content blockquote p {
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+    .stage-content .blockquote-footer {
+        font-size: var(--font-size-m-sm);
+    }
+
+}
+
+/* ==========================================
+   PLAN STEP PAGE - MOBILE
+   ========================================== */
+
+@media (max-width: 767.98px) {
+
+    /* ======================================
+       ÁREA PRINCIPAL
+       ====================================== */
+
+    .plan-step-page {
+        min-height: calc(100vh - 151px);
+        padding: 12px;
+    }
+
+    .plan-step-page > .m-top-xl {
+        display: none;
+    }
+
+
+    /* ======================================
+       TARJETA PRINCIPAL
+       ====================================== */
+
+    .plan-step-card {
+        width: 100%;
+
+        padding: 14px !important;
+        margin: 0 auto !important;
+
+        border-radius: 12px;
+    }
+
+
+    /* ======================================
+       ETAPA
+       Desktop: d-lg / d-md
+       Mobile:  m-lg / m-md
+       ====================================== */
+
+    .plan-step-stage {
+        gap: 10px !important;
+        margin-bottom: 12px !important;
+    }
+
+    /*.plan-step-stage .stage-icon {
+        width: 32px;
+        height: auto;
+        flex: 0 0 32px;
+    }*/
+
+    .plan-step-stage .stage-title {
+        margin: 0;
+
+        font-size: var(--font-size-m-lg);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2;
+    }
+
+    .plan-step-stage .stage-subtitle {
+        margin: 2px 0 0;
+
+        font-size: var(--font-size-m-md);
+        font-weight: var(--font-weight-medium);
+        line-height: 1.25;
+    }
+
+
+    /* ======================================
+       CABECERA DEL PASO
+
+       Desktop:
+       h1 = d-display
+       h2 = d-xxl
+
+       Mobile:
+       h1 = m-display
+       h2 = m-xxl
+       ====================================== */
+
+    .plan-step-header {
+        padding: 12px 14px;
+        margin-bottom: 18px !important;
+
+        border-radius: 12px;
+    }
+
+    .plan-step-header .plan-title-group h1 {
+        margin: 0 0 4px;
+
+        font-size: var(--font-size-m-display);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2;
+    }
+
+    .plan-step-header .plan-title-group h2 {
+        margin: 0;
+
+        font-size: var(--font-size-m-xxl);
+        font-weight: var(--font-weight-medium);
+        line-height: 1.3;
+    }
+
+
+    /* ======================================
+       CONTENIDO
+
+       Desktop:
+       p/li = d-body-lg
+       h2   = d-xl
+
+       Mobile:
+       p/li = m-body-lg
+       h2   = m-xl
+       ====================================== */
+
+    .plan-step-content p,
+    .plan-step-content li {
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+    .plan-step-content p {
+        margin-bottom: 14px;
+    }
+
+    .plan-step-content h2 {
+        margin-top: 22px;
+        margin-bottom: 8px;
+
+        font-size: var(--font-size-m-xl);
+        font-weight: var(--font-weight-bold);
+        line-height: 1.25;
+    }
+
+
+    /* ======================================
+       LISTAS
+       ====================================== */
+
+    .plan-step-content ul,
+    .plan-step-content ol {
+        padding-left: 22px;
+        margin-bottom: 14px;
+    }
+
+    .plan-step-content li {
+        margin-bottom: 7px;
+    }
+
+    .plan-step-content li > ul,
+    .plan-step-content li > ol {
+        margin-top: 7px;
+        margin-bottom: 7px;
+    }
+
+
+    /* ======================================
+      NAVEGACIÓN
+      ====================================== */
+
+    .plan-step-navigation .stage-navigation {
+        margin-top: 24px !important;
+
+        display: grid;
+
+        grid-template-columns: 1fr 1fr;
+
+        grid-template-areas:
+            "finish finish"
+            "back next";
+
+        align-items: center;
+
+        gap: 14px 12px;
+    }
+
+
+    /*
+    * Botones de navegación
+    */
+    .plan-step-navigation .btn-stage-nav {
+        padding: 10px 18px;
+
+        border-radius: 7px;
+
+        font-size: var(--font-size-m-md);
+        line-height: 1;
+
+        white-space: nowrap;
+    }
+
+
+    /*
+    * Botón Atrás
+    */
+    .plan-step-navigation .btn-stage-nav:first-child {
+        grid-area: back;
+        justify-self: start;
+    }
+
+
+    /*
+    * Botón Siguiente
+    */
+    .plan-step-navigation .btn-stage-nav:last-child {
+        grid-area: next;
+        justify-self: end;
+    }
+
+
+    /*
+    * Mensaje de final de etapa
+    *
+    * Desktop stage-finish-text = d-xxl
+    * Mobile                       = m-xxl
+    */
+    .plan-step-navigation .stage-finish-text {
+        grid-area: finish;
+
+        width: 100%;
+
+        font-size: var(--font-size-m-xxl);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.25;
+
+        text-align: center;
+    }
+
+
+    /*
+    * Si el paso no tiene mensaje de final de etapa,
+    * no reservar espacio para esa fila.
+    */
+    .plan-step-navigation .stage-finish-text:empty {
+        display: none;
+    }
+
+    /* Evita márgenes laterales excesivos heredados
+       del contenido de escritorio */
+    .plan-step-content .mx-5 {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    /* Tablas grandes */
+    .plan-step-table {
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin-bottom: 1rem;
+    }
+
+    .plan-step-table .table {
+        margin-bottom: 0;
+    }
+
+}
+
+/* ==========================================
+   INTRODUCTION PAGE - MOBILE
+   ========================================== */
+
+@media (max-width: 767.98px) {
+
+    /* ======================================
+       ÁREA PRINCIPAL
+       ====================================== */
+
+    .introduction-page {
+        min-height: calc(100vh - 151px);
+        padding: 12px;
+    }
+
+    /*
+     * En móvil las tabs generales están
+     * representadas por la navegación móvil,
+     * por lo que eliminamos el espacio desktop.
+     */
+    .introduction-page > .m-top-lg {
+        display: none;
+    }
+
+
+    /* ======================================
+       TARJETA
+       ====================================== */
+
+    .introduction-card {
+        width: 100%;
+
+        padding: 14px !important;
+        margin: 0 auto 12px !important;
+
+        border-radius: 12px;
+    }
+
+    .introduction-card > .row {
+        --bs-gutter-x: 0;
+        --bs-gutter-y: 0;
+    }
+
+
+    /* ======================================
+       TÍTULO
+       
+       Desktop:
+       inner-content-card h1 = d-xxl
+
+       Mobile:
+       m-xxl
+       ====================================== */
+
+    .introduction-content > h1 {
+        margin: 0 0 18px;
+
+        font-size: var(--font-size-m-display);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2;
+    }
+
+
+    /* ======================================
+       CUERPO DE TEXTO
+
+       Desktop:
+       inner-content-card p = d-body-lg
+
+       Mobile:
+       m-body-lg
+       ====================================== */
+
+    .introduction-content p,
+    .introduction-content li {
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+    .introduction-content p {
+        margin-bottom: 14px;
+    }
+
+
+    /* ======================================
+       LISTA
+       ====================================== */
+
+    .introduction-content ol,
+    .introduction-content ul {
+        padding-left: 22px;
+        margin-bottom: 14px;
+    }
+
+    .introduction-content li {
+        margin-bottom: 10px;
+    }
+
+
+    /* ======================================
+       CITA
+       ====================================== */
+
+    .introduction-quote {
+        margin: 0 0 20px !important;
+        padding: 0 8px;
+    }
+
+    .introduction-quote .blockquote {
+        margin-bottom: 6px;
+    }
+
+    .introduction-quote .blockquote p {
+        margin-bottom: 6px;
+
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+    .introduction-quote .blockquote-footer {
+        margin: 0;
+
+        font-size: var(--font-size-m-sm);
+        line-height: 1.3;
+    }
+
+}
+
+/* ==========================================
+   REFERENCES PAGE - MOBILE
+   ========================================== */
+
+@media (max-width: 767.98px) {
+
+    .references-body .inner-mobile-title {
+        display: none !important;
+    }  
+
+    /* ======================================
+       ÁREA PRINCIPAL
+       ====================================== */
+
+    .references-page {
+        min-height: calc(100vh - 151px);
+        padding: 12px;
+    }
+
+    .references-page > .m-top-xl {
+        display: none;
+    }
+
+
+    /* ======================================
+       TARJETA
+       ====================================== */
+
+    .references-card {
+        width: 100%;
+
+        padding: 14px !important;
+        margin: 0 auto 12px !important;
+
+        border-radius: 12px;
+    }
+
+    .references-card > .row {
+        --bs-gutter-x: 0;
+        --bs-gutter-y: 0;
+    }
+
+
+    /* ======================================
+       HEADER
+       ====================================== */
+
+    .references-card .tool-header-references {
+        margin-bottom: 18px !important;
+    }
+
+    .references-card .tool-title-group h1 {
+        margin: 0;
+
+        font-size: var(--font-size-m-xxl);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2;
+    }
+
+
+    /* ======================================
+       REFERENCIAS
+       ====================================== */
+
+    .references-content .referencias p {
+        margin-bottom: 14px;
+
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+
+    /* ======================================
+       ENLACES
+       ====================================== */
+
+    .references-content .referencias a {
+        overflow-wrap: anywhere;
+        word-break: break-word;
+    }
+
+
+    /* ======================================
+       LISTA DE ACRÓNIMOS
+       ====================================== */
+
+    .references-content > h2 {
+        margin-top: 28px !important;
+        margin-bottom: 16px;
+
+        font-size: var(--font-size-m-xl);
+        line-height: 1.2;
+    }
+
+    .references-content > h3 {
+        margin-top: 20px;
+        margin-bottom: 12px;
+
+        font-size: var(--font-size-m-lg);
+        line-height: 1.25;
+    }
+
+
+    /* ======================================
+       LISTAS
+       ====================================== */
+
+    .references-content ul {
+        padding-left: 22px;
+        margin-bottom: 20px;
+    }
+
+    .references-content li {
+        margin-bottom: 8px;
+
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+}
+
+/* ==========================================
+   CREDITS PAGE - MOBILE
+   ========================================== */
+
+@media (max-width: 767.98px) {
+
+    /* ======================================
+       OCULTAR BARRA AZUL
+       Igual que Referencias
+       ====================================== */
+
+    .credits-body .inner-mobile-title {
+        display: none !important;
+    }
+
+
+    /* ======================================
+       ÁREA PRINCIPAL
+       ====================================== */
+
+    .credits-page {
+        min-height: calc(100vh - 151px);
+        padding: 12px;
+    }
+
+    .credits-page > .m-top-xl {
+        display: none;
+    }
+
+
+    /* ======================================
+       TARJETA
+       ====================================== */
+
+    .credits-card {
+        width: 100%;
+
+        padding: 14px !important;
+        margin: 0 auto 12px !important;
+
+        border-radius: 12px;
+    }
+
+    .credits-card > .row {
+        --bs-gutter-x: 0;
+        --bs-gutter-y: 0;
+    }
+
+
+    /* ======================================
+       HEADER CRÉDITOS
+       ====================================== */
+
+    .credits-card .tool-header-credits {
+        margin-bottom: 18px !important;
+
+        padding: 12px 14px;
+
+        border-radius: 12px;
+    }
+
+    .credits-card .tool-title-group h1 {
+        margin: 0;
+
+        font-size: var(--font-size-m-xxl);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2;
+    }
+
+
+    /* ======================================
+       TEXTO
+       ====================================== */
+
+    .credits-content p {
+        margin-bottom: 14px;
+
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+
+    /* ======================================
+       SUBTÍTULOS
+       ====================================== */
+
+    .credits-content .credits-section-title {
+        margin-top: 22px;
+        margin-bottom: 8px;
+
+        font-size: var(--font-size-m-lg);
+        line-height: 1.25;
+    }
+
+
+    /* ======================================
+       LOGO UNED
+       ====================================== */
+
+    .credits-logo-link {
+        display: block;
+    }
+
+    .credits-logo {
+        display: block;
+
+        width: auto;
+        max-width: 180px;
+
+        margin: 16px 0 20px !important;
+    }
+
+}
+
+/* ==========================================
+   CASES PAGE - MOBILE
+   ========================================== */
+
+@media (max-width: 767.98px) {
+
+    /* ======================================
+       ÁREA PRINCIPAL
+       ====================================== */
+
+    .cases-page {
+        min-height: calc(100vh - 151px);
+        padding: 12px;
+    }
+
+    .cases-page > .m-top-xl,
+    .cases-list-separator {
+        display: none;
+    }
+
+
+    /* ======================================
+       INTRODUCCIÓN
+       ====================================== */
+
+
+    .cases-intro-card {
+        width: 100%;
+
+        padding: 14px !important;
+        margin: 0 auto 14px !important;
+
+        border-radius: 12px;
+    }
+
+    .cases-intro-card > .row {
+        --bs-gutter-x: 0;
+        --bs-gutter-y: 0;
+    }
+
+    .cases-intro-content > h1 {
+        margin: 0 0 18px;
+        font-size: var(--font-size-m-display);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2;
+    }
+
+    .cases-intro-content p {
+        margin-bottom: 14px;
+
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+    .cases-intro-content p:last-child {
+        margin-bottom: 0;
+    }
+
+
+    /* ======================================
+       LISTADO DE CASOS
+       ====================================== */
+
+    .cases-list {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .cases-list > .row {
+        --bs-gutter-x: 0;
+        --bs-gutter-y: 14px;
+    }
+
+
+    /* ======================================
+       TARJETA
+       ====================================== */
+
+    .cases-list .case-card {
+        padding: 12px;
+
+        border-radius: 12px;
+
+        box-shadow:
+            0 5px 10px rgba(0, 0, 0, .18);
+    }
+
+
+    /* ======================================
+       IMAGEN
+       ====================================== */
+
+    .cases-list .case-media img {
+        width: 100%;
+
+        border-radius: 10px;
+
+        box-shadow: none;
+    }
+
+
+    /* ======================================
+       CUERPO DE TARJETA
+       ====================================== */
+
+    .cases-list .case-body {
+        padding-top: 14px;
+    }
+
+    .cases-list .case-body > div {
+        gap: 10px !important;
+    }
+
+
+    /* ======================================
+       ICONO
+       ====================================== */
+
+    .cases-list .case-icon {
+        width: 34px;
+        height: auto;
+
+        flex: 0 0 34px;
+    }
+
+
+    /* ======================================
+       TÍTULO DEL CASO
+       Desktop = d-lg
+       Mobile  = m-lg
+       ====================================== */
+
+    .cases-list .case-body h3 {
+        margin: 0;
+
+        font-size: var(--font-size-m-lg);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.3;
+    }
+
+}
+
+/* ==========================================
+   CASE DETAIL PAGE - MOBILE
+   ========================================== */
+
+@media (max-width: 767.98px) {
+
+    /* ======================================
+       ÁREA PRINCIPAL
+       ====================================== */
+
+    .case-detail-page {
+        min-height: calc(100vh - 151px);
+        padding: 12px;
+    }
+
+    .case-detail-page > .m-top-xl {
+        display: none;
+    }
+
+
+    /* ======================================
+       TARJETA PRINCIPAL
+       ====================================== */
+
+    .case-detail-card {
+        width: 100%;
+
+        padding: 14px !important;
+        margin: 0 auto 12px !important;
+
+        border-radius: 12px;
+    }
+
+    .case-detail-card > .row {
+        --bs-gutter-x: 0;
+        --bs-gutter-y: 0;
+    }
+
+
+    /* ======================================
+       CABECERA DEL CASO
+
+       Desktop:
+       case-title h1 = d-display
+
+       Mobile:
+       m-display
+       ====================================== */
+
+    .case-detail-header {
+        position: relative;
+
+        display: block;
+
+        padding: 12px 14px 14px;
+
+        margin-bottom: 18px !important;
+
+        border-radius: 12px;
+    }
+
+
+    .case-detail-header .case-title-group {
+        display: flex;
+
+        align-items: flex-start;
+
+        gap: 10px;
+    }
+
+
+    /* ICONO
+       Desktop 60px
+       Mobile 34px */
+    .case-detail-header .case-title-icon {
+        width: 34px;
+        height: 34px;
+
+        flex: 0 0 34px;
+
+        object-fit: contain;
+    }
+
+
+    .case-detail-header .case-title-group h1 {
+        margin: 0;
+
+        font-size: var(--font-size-m-display);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2;
+
+        letter-spacing: normal;
+    }
+
+
+    /* ======================================
+       VOLVER
+       ====================================== */
+
+    .case-detail-header .case-back-link {
+        display: inline-block;
+
+        width: auto;
+
+        margin-top: 12px;
+        margin-left: 44px;
+
+        font-size: var(--font-size-m-md);
+        line-height: 1.2;
+
+        text-align: left;
+    }
+
+
+    /* ======================================
+       CONTENIDO
+       ====================================== */
+
+    .case-detail-content p,
+    .case-detail-content li {
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+    .case-detail-content p {
+        margin-bottom: 14px;
+    }
+
+
+    /* ======================================
+       TÍTULOS INTERNOS
+       Desktop h2 = d-xl
+       Mobile  h2 = m-xl
+       ====================================== */
+
+    .case-detail-content h2 {
+        margin-top: 22px;
+        margin-bottom: 8px;
+
+        font-size: var(--font-size-m-xl);
+        font-weight: var(--font-weight-bold);
+        line-height: 1.25;
+    }
+
+
+    /* ======================================
+       LISTAS
+       ====================================== */
+
+    .case-detail-content ul,
+    .case-detail-content ol {
+        padding-left: 22px;
+        margin-bottom: 14px;
+    }
+
+    .case-detail-content li {
+        margin-bottom: 7px;
+    }
+
+
+    /* ======================================
+       VIDEO
+       ====================================== */
+
+    .case-detail-video {
+        margin-top: 14px;
+    }
+
+    .case-detail-video .ratio {
+        overflow: hidden;
+
+        border-radius: 10px;
+    }
+
+}
+
+/* ==========================================
+   TOOLS DETAIL PAGE - MOBILE
+   ========================================== */
+
+@media (max-width: 767.98px) {
+
+    /* ======================================
+       ÁREA PRINCIPAL
+       ====================================== */
+
+    .tools-detail-page {
+        min-height: calc(100vh - 151px);
+        padding: 12px;
+    }
+
+    .tools-detail-page > .m-top-xl {
+        display: none;
+    }
+
+
+    /* ======================================
+       TARJETA PRINCIPAL
+       ====================================== */
+
+    .tools-detail-card {
+        width: 100%;
+
+        padding: 14px !important;
+        margin: 0 auto 24px !important;
+       
+        border-radius: 12px;
+    }
+
+    .tools-detail-card > .row {
+        --bs-gutter-x: 0;
+        --bs-gutter-y: 0;
+    }
+
+
+    /* ======================================
+       CABECERA DE LA HERRAMIENTA
+       ====================================== */
+
+    .tools-detail-header {
+        position: relative;
+
+        display: block;
+
+        width: 100%;
+
+        padding: 12px 14px;
+
+        margin-bottom: 18px !important;
+
+        border-radius: 12px;
+    }
+
+
+    /* ======================================
+       TÍTULO + ICONO
+       ====================================== */
+
+    .tools-detail-header .tool-title-group {
+        display: flex;
+
+        align-items: flex-start;
+
+        gap: 10px;
+
+        width: 100%;
+    }
+
+
+    /* Desktop 60px
+       Mobile 34px */
+    .tools-detail-header .tool-title-icon {
+        width: 34px;
+        height: 34px;
+
+        flex: 0 0 34px;
+
+        object-fit: contain;
+    }
+
+
+    /* Desktop = d-display
+       Mobile  = m-display */
+    .tools-detail-header .tool-title-group h1 {
+        flex: 1;
+
+        min-width: 0;
+
+        margin: 0;
+
+        font-size: var(--font-size-m-display);
+        font-weight: var(--font-weight-semibold);
+        line-height: 1.2;
+
+        letter-spacing: normal;
+    }
+
+
+    /* ======================================
+       IMAGEN PRINCIPAL
+       ====================================== */
+
+    .tools-detail-image {
+        width: 100%;
+
+        margin-bottom: 18px !important;
+
+        padding: 0;
+    }
+
+    .tools-detail-image img {
+        display: block;
+
+        width: 100%;
+        max-width: 100%;
+
+        height: auto;
+
+        margin: 0 auto;
+    }
+
+
+    /* ======================================
+       CONTENIDO
+       ====================================== */
+
+    .tools-detail-content {
+        width: 100%;
+    }
+
+    .tools-detail-content p,
+    .tools-detail-content li {
+        font-size: var(--font-size-m-body-lg);
+        line-height: 1.5;
+    }
+
+    .tools-detail-content p {
+        margin-bottom: 14px;
+    }
+
+
+    /* ======================================
+       H2
+       Desktop = d-xl
+       Mobile  = m-xl
+       ====================================== */
+
+    .tools-detail-content h2 {
+        margin-top: 22px;
+        margin-bottom: 8px;
+
+        font-size: var(--font-size-m-xl);
+        font-weight: var(--font-weight-bold);
+        line-height: 1.25;
+    }
+
+
+    /* ======================================
+       H3
+       Desktop = d-lg
+       Mobile  = m-lg
+       ====================================== */
+
+    .tools-detail-content h3 {
+        margin-top: 18px;
+        margin-bottom: 7px;
+
+        font-size: var(--font-size-m-lg);
+        font-weight: var(--font-weight-bold);
+        line-height: 1.25;
+    }
+
+
+    /* ======================================
+       LISTAS
+       ====================================== */
+
+    .tools-detail-content ul,
+    .tools-detail-content ol {
+        padding-left: 22px;
+        margin-bottom: 14px;
+    }
+
+    .tools-detail-content li {
+        margin-bottom: 7px;
+    }
+
+
+    /* ======================================
+       REFERENCIAS
+       ====================================== */
+
+    .tools-detail-content .referencias {
+        margin-top: 10px;
+    }
+
+    .tools-detail-content .referencias p {
+        padding-left: 0;
+        text-indent: 0;
+        text-align: left;
+    }
+
+    .tools-detail-content .referencias a {
+        overflow-wrap: anywhere;
+        word-break: break-word;
+    }
+
+
+    /* ======================================
+       BOTONES DE OTRAS HERRAMIENTAS
+       ====================================== */
+
+    .tools-detail-buttons {
+        width: 100%;
+    }
+
+    
+
+}
+
+/* ==========================================
+   MOBILE MAIN MENU
+   ========================================== */
+
+.mobile-menu,
+.mobile-menu-overlay {
+    display: none;
+}
+
+
+@media (max-width: 767.98px) {
+
+    /* FONDO OSCURO EXTERIOR */
+    .mobile-menu-overlay {
+        position: fixed;
+        inset: 0;
+        z-index: 9998;
+
+        display: block;
+
+        background: rgba(0, 0, 0, 0.35);
+
+        opacity: 0;
+        visibility: hidden;
+
+        transition:
+            opacity .25s ease,
+            visibility .25s ease;
+    }
+
+
+    /* PANEL PRINCIPAL */
+    .mobile-menu {
+        position: fixed;
+
+        top: 0;
+        left: 0;
+
+        z-index: 9999;
+
+        display: block;
+
+        width: 100%;
+        max-width: 280px;
+        height: 100dvh;
+
+        padding:
+            max(50px, env(safe-area-inset-top))
+            18px
+            34px;
+
+        background: #4f6e3d;
+
+        overflow-y: auto;
+        overflow-x: hidden;
+
+        transform: translateX(-100%);
+
+        transition: transform .3s ease;
+    }
+
+
+    /* MENÚ ABIERTO */
+    .mobile-menu.is-open {
+        transform: translateX(0);
+    }
+
+    .mobile-menu-overlay.is-open {
+        opacity: 1;
+        visibility: visible;
+    }
+
+
+    /* CONTENIDO */
+    .mobile-menu-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        width: 100%;
+        gap: 12px;
+    }
+
+
+    /* IMAGEN PRINCIPAL */
+    .mobile-menu-principal {
+        display: block;
+
+        width: 100%;
+        margin-bottom: 2px;
+    }
+
+    .mobile-menu-principal img {
+        display: block;
+
+        width: 100%;
+        max-width: 211px;
+        height: auto;
+
+        margin: 0 auto;
+    }
+
+
+    /* BOTONES */
+    
+    /* ======================================
+    HOVER BOTONES MENÚ LATERAL
+    Mismo efecto que el HOME
+    ====================================== */
+
+    .mobile-menu-item {
+        display: block;
+        width: 100%;
+        text-decoration: none;
+
+        transition:
+            transform .2s ease,
+            filter .2s ease;
+    }
+
+    .mobile-menu-item:hover {
+        transform: translateY(-4px);
+        filter: brightness(1.05);
+    }
+
+    .mobile-menu-item:active {
+        transform: translateY(-1px) scale(.98);
+        filter: brightness(.95);
+    }
+
+    .mobile-menu-item img {
+        display: block;
+
+        width: 100%;
+        max-width: 220px;
+        height: auto;
+
+        margin: 0 auto;
+    }
+
+
+  
+
+
+    /* BOTÓN CERRAR */
+    .mobile-menu-close {
+        position: absolute;
+
+        top: 15px;
+        right: 15px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        width: 24px;
+        height: 24px;
+
+        padding: 0;
+
+        color: #fff;
+        font-family: Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 1;
+
+        background: transparent;
+
+        border: 1px solid rgba(255,255,255,.85);
+        border-radius: 50%;
+
+        cursor: pointer;
+    }
+
+
+    /* BARRA INFERIOR TIPO FIGMA */
+    .mobile-menu::after {
+        content: "";
+
+        position: absolute;
+
+        left: 50%;
+        bottom: 7px;
+
+        width: 105px;
+        height: 3px;
+
+        background: rgba(0, 0, 0, .8);
+
+        border-radius: 10px;
+
+        transform: translateX(-50%);
+    }
+
+
+    /* EVITA SCROLL DEL BODY CON MENÚ ABIERTO */
+    body.mobile-menu-open {
+        overflow: hidden;
+    }
+
 }
