@@ -1,4 +1,4 @@
-const BASE_URL = '/planeamiento-municipal/';
+const BASE_URL = '/mult-2026-planeamiento-municipal/site/';
 
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -8,6 +8,8 @@ document.addEventListener('DOMContentLoaded', async () => {
   applyBaseUrls();
 
   initMobileMenu();
+
+  initFontSizeControl();
 
 });
 
@@ -131,3 +133,124 @@ function initMobileMenu() {
   });
 
 }
+
+
+/* ==========================================
+   CONTROL DE TAMAÑO DE TEXTO
+   ========================================== */
+
+const FONT_SIZE_KEY = 'municipal-font-size';
+
+const FONT_SIZES = {
+  normal: 1,
+  medium: 1.20,
+  large: 1.4
+};
+
+
+/**
+ * Inicializa el control de tamaño de texto.
+ */
+function initFontSizeControl() {
+
+  const buttons = document.querySelectorAll(
+    '.font-size-btn'
+  );
+
+  const contents = document.querySelectorAll(
+    '.font-adjustable-content'
+  );
+
+  if (!contents.length) {
+    return;
+  }
+
+  // Recuperar preferencia guardada
+  let savedSize = 'normal';
+
+  try {
+    savedSize = localStorage.getItem(FONT_SIZE_KEY)
+      || 'normal';
+  } catch (error) {
+    console.warn('No se pudo leer la preferencia.');
+  }
+
+  // Aplicar tamaño inicial
+  applyFontSize(savedSize);
+
+  // Eventos de los botones
+  buttons.forEach(button => {
+
+    button.addEventListener('click', () => {
+
+      const size = button.dataset.fontSize;
+
+      if (!Object.hasOwn(FONT_SIZES, size)) {
+        return;
+      }
+
+      applyFontSize(size);
+
+      // Guardar preferencia
+      try {
+        localStorage.setItem(FONT_SIZE_KEY, size);
+      } catch (error) {
+        console.warn('No se pudo guardar la preferencia.');
+      }
+
+    });
+
+  });
+
+}
+
+
+/**
+ * Aplica el tamaño seleccionado.
+ */
+function applyFontSize(size) {
+
+  if (!Object.hasOwn(FONT_SIZES, size)) {
+    size = 'normal';
+  }
+
+  document.querySelectorAll(
+    '.font-adjustable-content'
+  ).forEach(content => {
+
+    content.style.setProperty(
+      '--content-font-scale',
+      FONT_SIZES[size]
+    );
+
+  });
+
+  // Actualizar estado accesible de botones
+  document.querySelectorAll(
+    '.font-size-btn'
+  ).forEach(button => {
+
+    const active = button.dataset.fontSize === size;
+
+    button.setAttribute(
+      'aria-pressed',
+      String(active)
+    );
+
+  });
+
+  // Escalar también la etiqueta del control
+  document.querySelectorAll('.font-size-toolbar')
+      .forEach(toolbar => {
+
+          toolbar.style.setProperty(
+              '--content-font-scale',
+              FONT_SIZES[size]
+          );
+
+      });
+
+}
+
+
+
