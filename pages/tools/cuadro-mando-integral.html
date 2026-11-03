@@ -4,6 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="../../assets/img/favicon.png">
+
+
   <title>Cuadro de mando integral</title>
 
   <!-- Bootstrap 5.3 -->
@@ -34,10 +38,15 @@
     <!-- TOOLS TABS -->
     <div data-include="../../components/tools-tabs.html"></div>
 
-    <section class="m-top-xl"></section>
+    <section class="m-top-lg"></section>
+
+    <!-- CONTROL DE TAMAÑO DE TEXTO -->
+    <div data-include="../../components/font-size-control.html"></div>
+
+    <section class="m-top-sm"></section>
 
     <!-- CARD PRINCIPAL -->
-    <section class="container inner-content-card tools-detail-card p-5 mb-5">
+    <section class="container inner-content-card font-adjustable-content tools-detail-card p-5 mb-5">
 
       <div class="row g-3 align-items-start m-0">
 
@@ -62,10 +71,24 @@
         <!-- IMAGEN -->
         <div class="col-12 tool-main-image tools-detail-image text-center mb-5">
 
-          <img
-            src="../../assets/img/tools/cuadro-mando-integral.jpg"
-            class="img-fluid"
-            alt="Cuadro de mando integral">
+            <figure class="figure mb-0">
+
+                <img
+                    src="../../assets/img/tools/cuadro-mando-integral.jpg"
+                    class="figure-img img-fluid rounded mb-1"
+                    alt="Cuadro de mando integral"
+                >
+
+                <figcaption class="figure-caption text-center">
+                    Imagen por
+                    <a href="https://www.magnific.com/free-photo/executive-manager-shwoing-marketing-graphs-freelancer-woman-analyzing-company-strategy-working-partnership-project-startup-office-marketing-team-brainstorming-business-ideas_27510474.htm#fromView=search&page=1&position=22&uuid=2b624fa9-ca02-4450-9155-8e49ef147a03&track=ais_hybrid&query=data+woman+presentation"
+                      target="_blank"
+                      rel="noopener noreferrer">
+                        DC Studio on Magnific
+                    </a>
+                </figcaption>
+
+            </figure>
 
         </div>
 
@@ -297,6 +320,38 @@
               El Cuadro de Mando Integral como modelo de planificación y gestión.
               <em>Revista Equidad</em>, <em>1</em>, 69–74.
             </p>
+
+          </div>
+
+          <!-- DESCARGAR MATERIAL EN PDF -->
+          <div class="col-12 mt-5 mb-5">
+
+              <div class="d-flex align-items-center gap-3 m-auto" style="width: fit-content;">
+
+                  <!-- Ícono PDF con enlace de descarga -->
+                  <a href="../../uploads/doc/cuadro-mando-integral.pdf"
+                    download
+                    title="Descargar material en PDF"
+                    aria-label="Descargar cuadro de mando integral en PDF">
+
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-pdf"><path stroke="none" d="M0 0h24v24H0z" fill="none" /><path d="M14 3v4a1 1 0 0 0 1 1h4" /><path d="M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4" /><path d="M5 18h1.5a1.5 1.5 0 0 0 0 -3h-1.5v6" /><path d="M17 18h2" /><path d="M20 15h-3v6" /><path d="M11 15v6h1a2 2 0 0 0 2 -2v-2a2 2 0 0 0 -2 -2h-1" /></svg>
+
+                  </a>
+
+                  <!-- Información del documento -->
+                  <div>
+                      <div class="fw-semibold">
+                          Descargar en PDF
+                      </div>
+
+                      <a href="../../uploads/doc/cuadro-mando-integral.pdf"
+                        download
+                        class="text-muted text-break">
+                          Cuadro de mando integral
+                      </a>
+                  </div>
+
+              </div>
 
           </div>
 
