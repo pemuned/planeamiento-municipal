@@ -1,4 +1,4 @@
-const BASE_URL = '/planeamiento-municipal/site/';
+const BASE_URL = '/planeamiento-municipal/';
 
 
 document.addEventListener('DOMContentLoaded', async () => {
