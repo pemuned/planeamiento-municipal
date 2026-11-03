@@ -497,6 +497,13 @@ body::before {
   text-align: end;
 }
 
+/* Iconos */
+.icon-pdf {
+    width: 48px;
+    height: 48px;
+    color: darkred;
+}
+
 
 .tool-back-link:hover, .case-back-link:hover, .plan-back-link:hover {
   text-decoration: underline;
@@ -1230,7 +1237,7 @@ body::before {
      * Las tabs de escritorio ya están ocultas,
      * por lo tanto no necesitamos este espacio.
      */
-    .inner-page > .m-top-xl {
+    .inner-page > .m-top-xl, .inner-page > .m-top-lg {
         display: none;
     }
 
@@ -2899,3 +2906,277 @@ body::before {
     }
 
 }
+
+
+
+/* ==========================================
+   ESCALADO GLOBAL DEL CONTENIDO EDUCATIVO
+   ========================================== */
+
+.font-adjustable-content {
+    --content-font-scale: 1;
+}
+
+/* ESCRITORIO */
+
+/* Texto principal */
+.font-adjustable-content p,
+.font-adjustable-content li {
+    font-size: calc(
+        var(--font-size-d-body-lg) *
+        var(--content-font-scale)
+    );
+}
+
+/* Títulos */
+.font-adjustable-content h1 {
+    font-size: calc(
+        var(--font-size-d-xxl) *
+        var(--content-font-scale)
+    );
+}
+
+/* Subtítulos */
+.font-adjustable-content h2 {
+    font-size: calc(
+        var(--font-size-d-xl) *
+        var(--content-font-scale)
+    );
+}
+
+.font-adjustable-content h3 {
+    font-size: calc(
+        var(--font-size-d-lg) *
+        var(--content-font-scale)
+    );
+}
+
+/* MÓVIL */
+@media (max-width: 767.98px) {
+
+    .font-adjustable-content p,
+    .font-adjustable-content li {
+        font-size: calc(
+            var(--font-size-m-body-lg) *
+            var(--content-font-scale)
+        );
+    }
+
+    .font-adjustable-content h1 {
+        font-size: calc(
+            var(--font-size-m-display) *
+            var(--content-font-scale)
+        );
+    }
+
+    .font-adjustable-content h2 {
+        font-size: calc(
+            var(--font-size-m-xl) *
+            var(--content-font-scale)
+        );
+    }
+
+    .font-adjustable-content h3 {
+        font-size: calc(
+            var(--font-size-m-lg) *
+            var(--content-font-scale)
+        );
+    }
+}
+
+
+/* ==========================================
+   CONTROL DE TAMAÑO DE TEXTO
+   DISEÑO FIGMA
+   ========================================== */
+
+
+.font-size-toolbar {
+    position: relative;
+    z-index: 4;
+
+    /* El ancho lo controla Bootstrap .container */
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+.font-size-control {
+    display: inline-flex;
+    align-items: baseline;
+    justify-content: flex-end;
+
+    gap: 12px;
+}
+
+.font-size-label {
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: calc(
+        16px * var(--content-font-scale, 1)
+    );
+
+    font-weight: 400;
+    color: #222;
+    white-space: nowrap;
+    margin-right: 2px;
+}
+
+/* BOTONES */
+
+.font-size-btn {
+    appearance: none;
+    -webkit-appearance: none;
+
+    display: inline-flex;
+    align-items: baseline;
+    justify-content: center;
+
+    width: auto;
+    height: auto;
+    min-width: 0;
+
+    padding: 0;
+    margin: 0;
+
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+
+    background: transparent;
+    color: #000;
+
+    font-family: Georgia, 'Times New Roman', serif;
+    font-weight: 700;
+    line-height: 1;
+
+    cursor: pointer;
+
+    transition: color .2s ease;
+}
+
+/* TAMAÑOS DE LAS LETRAS */
+
+.font-size-btn[data-font-size="normal"] {
+    font-size: 20px;
+}
+
+.font-size-btn[data-font-size="medium"] {
+    font-size: 28px;
+}
+
+.font-size-btn[data-font-size="large"] {
+    font-size: 38px;
+}
+
+/* INTERACCIÓN */
+
+.font-size-btn:hover {
+    color: #756000;
+}
+
+.font-size-btn:focus-visible {
+    outline: 2px solid #1673c9;
+    outline-offset: 4px;
+}
+
+
+/* Indicador del tamaño seleccionado */
+
+.font-size-btn {
+    position: relative;
+}
+
+.font-size-btn[aria-pressed="true"]::after {
+    content: "";
+    position: absolute;
+
+    bottom: -3px;
+    left: 50%;
+
+    width: 100%;
+    height: 2px;
+
+    background-color: #554000;
+    border-radius: 3px;
+
+    transform: translateX(-50%);
+}
+
+
+
+/* MÓVIL */
+
+@media (max-width: 767.98px) {
+
+    .font-size-toolbar {
+        padding: 10px 4px;
+        justify-content: flex-end;
+    }
+
+    .font-size-control {
+        gap: 9px;
+    }
+
+    .font-size-label {
+        font-size: calc(
+            12px * var(--content-font-scale, 1)
+        );
+    }
+
+    .font-size-btn[data-font-size="normal"] {
+        font-size: 18px;
+    }
+
+    .font-size-btn[data-font-size="medium"] {
+        font-size: 24px;
+    }
+
+    .font-size-btn[data-font-size="large"] {
+        font-size: 32px;
+    }
+}
+
+
+/* ==========================================
+   ESCALADO DE FUENTE - TARJETAS DE PASOS
+   ========================================== */
+
+/* ESCRITORIO */
+
+.font-adjustable-content .stage-steps .step-card {
+    font-size: calc(
+        var(--font-size-d-body-lg) *
+        var(--content-font-scale, 1)
+    );
+}
+
+/* El número del paso conserva el tamaño del texto */
+.font-adjustable-content .stage-steps .step-card strong {
+    font-size: inherit;
+}
+
+/* MÓVIL */
+
+@media (max-width: 767.98px) {
+
+    .font-adjustable-content .stage-steps .step-card {
+        font-size: calc(
+            var(--font-size-m-body-lg) *
+            var(--content-font-scale, 1)
+        );
+    }
+
+    .font-adjustable-content .stage-steps .step-card strong {
+        font-size: inherit;
+    }
+
+}
+
